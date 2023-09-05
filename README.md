@@ -1,39 +1,126 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Colour Theory
 
-Welcome,
+## Contents
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[Planning & Development](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#planning--development)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+[Features](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#features)
 
-## Codeanywhere Reminders
+[Testing](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#testing)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+[Deployment](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#deployment)
 
-`python3 -m http.server`
+[Languages](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#languages)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+[Software](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#software)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+[Media](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#media)
 
-`http_server`
+[Credits](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#credits)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Planning & Development
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- **Business Strategy**
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- **Target Audience**
 
-To log into the Heroku toolbelt CLI:
+- **Targeting Key Demographics**
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- **Target Audiences Summary**
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- **User Stories**
 
----
+- **Site Objectives**
 
-Happy coding!
+- **Approach**
+
+- **Wireframes**
+
+- **Color Scheme**
+
+- **Typography**
+
+# Features
+
+## Existing Features
+
+- **Navigation Bar**
+
+- **Sticky Navigation Menu**
+
+- **Hero Image**
+
+- **Upcoming Dates**
+
+- **News Section**
+
+- **Mailing List**
+
+- **Fire Image**
+
+- **The Footer**
+
+- **Audio Section**
+
+  - **Video Section**
+
+- **The Gallery**
+
+  - **Upper Biography Section**
+
+  - **Lower Biography Section**
+
+  - **Contact Section**
+
+- **Possible Future Features**
+
+  # Testing
+
+- **Testing During Development**
+
+- **Testing the Home page**
+
+- **Testing the Media page**
+
+- **Testing the About page**
+
+- **Testing the Contact page**
+
+- **Validator Testing**
+
+- **Performance Testing**
+
+- **Other Bug Fixes**
+
+- **Unfixed Bugs**
+
+# Deployment
+
+# Languages
+
+# Software
+
+# Media
+
+# Credits
+
+- **Content**
+
+- **Thanks**
+
+- Richard Wells: my Code Institute Mentor.
+
+- Dan Sanderson: for helping me with my VScode and Github set ups.
+
+- Kera Cudmore: for her excellent guide to writing READMEs
+  [View here](https://github.com/kera-cudmore/readme-examples#readme-examples)
+
+- atapas: for his markdown-cheatsheet [View here](https://github.com/atapas/markdown-cheatsheet#horizontal-line)
+
+- Ian Lunn: for his hover css library [View here](https://github.com/IanLunn/Hover)
+
+- David Calikes: for his excellent README file which I've used as a template. [View here](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md?plain=1)
+
+- Tom Harris: my biggest cheerleader.
+
+- Shaun Russell: my partner, my UI/UX personal mentor, and my provider while I study. Building my new development career change would have been infinitely harder without you. Thank you.
