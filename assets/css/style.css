@@ -31,14 +31,19 @@ header a img {
     width:100px;
     height:100px;
 }
+ .nav-link {
+    position: relative;
+    bottom: -45px;
+ }
 /* ............................................GRID STYLES */
 
 section {
     background-color: #ccc;   
 }
 
-.grid {
+.color-grid {
     background-color: #fff;
+    max-height:33%;
 }
 
 .center {
