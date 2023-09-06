@@ -29,10 +29,15 @@ MID GREY    #ccc
 
 /* ............................................GRID STYLES */
 
+section {
+    background-color: #ccc;   
+}
+
 .grid {
     background-color: #fff;
 }
 
-section {
-    background-color: #ccc;   
+.center {
+    position:relative;
+    text-align: center;
 }
