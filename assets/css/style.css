@@ -17,12 +17,12 @@ MID GREY    #ccc
 */
 
 
-/* ............................................HEADER STYLES */
+/* ............................................NAVBAR STYLES */
 
-.navbar-header {
+.bg-navbar {
     background-color: #000;
 }
 
-a {
+.bg-navbar a {
     color:#ccc;
 }
