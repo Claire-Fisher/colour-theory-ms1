@@ -1,22 +1,26 @@
 # Colour Theory
 
+This site is designed as an introductory tool to colour theory.
+
+Designed as a teaching tool, the site will introduce the user to the basics of colour theory and guide them towards additional learning.
+
 ## Contents
 
-[Planning & Development](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#planning--development)
+[Planning & Development](https://https://github.com/Claire-Fisher/colour-theory-ms1/blob/main/README.md#planning--development)
 
-[Features](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#features)
+[Features]
 
-[Testing](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#testing)
+[Testing]
 
-[Deployment](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#deployment)
+[Deployment]
 
-[Languages](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#languages)
+[Languages]
 
-[Software](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#software)
+[Software]
 
-[Media](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#media)
+[Media]
 
-[Credits](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md#credits)
+[Credits](https://https://github.com/Claire-Fisher/colour-theory-ms1/blob/main/README.md#credits)
 
 ## Planning & Development
 
@@ -98,13 +102,23 @@
 
 # Languages
 
+- The coding languages used to create this site were HTML and CSS.
+- In conjunction with Bootstrap 4.
+
 # Software
+
+- Visual Studio Code to create, load and push my code to Github.
+- Git and Github as my version control system for the site.
+- Figma to create design-boards, wireframes and prototypes.
+- Procreate to create design pages and sketch-work, images and logo.
 
 # Media
 
 # Credits
 
 - **Content**
+
+- Geeksforgeeks helped me with my flexbox grid layout. [View here](https://www.geeksforgeeks.org/how-to-set-space-between-the-flexbox/)
 
 - **Thanks**
 
