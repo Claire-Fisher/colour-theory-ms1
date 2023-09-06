@@ -19,6 +19,15 @@ MID GREY    #ccc
 
 /* ............................................NAVBAR STYLES */
 
+header {
+    margin:0;
+}
+
+header a img {
+    width: 100px;
+    height: 100px;
+}
+
 .bg-navbar {
     background-color: #000;
 }
@@ -27,10 +36,6 @@ MID GREY    #ccc
     color:#ccc;
 }
 
-header a img {
-    width:100px;
-    height:100px;
-}
  .nav-link {
     position: relative;
     bottom: -45px;
@@ -39,12 +44,13 @@ header a img {
 /* ............................................GRID STYLES */
 
 section {
+    margin:0;
     background-color: #ccc;   
 }
 
 .color-grid {
+    margin:10px;
     background-color: #fff;
-    max-height:33%;
 }
 
 .center {
