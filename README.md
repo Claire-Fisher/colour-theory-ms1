@@ -32,7 +32,21 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Target Audiences Summary**
 
+  - Users who are looking for information about the meaning of colours.
+  - Designers who want insight into why certain colours are chosen for specifics job in design. e.g. Warning signs / Product packaging / Interior-design / Fashion.
+  - Users who want a clear and easy-to-use teaching tool for colour theory.
+  - Users who are curious about the science behind colour.
+  - Users who want to research the psychology of colour.
+  - Users who want to quickly find more resources for further information on colour theory.
+
 - **User Stories**
+
+  - As a user, I want to discover colour theory.
+  - As a user, I want to find the most relevant information quickly and effortlessly.
+  - As a user, I want to access additional media content.
+  - As a user, I want to have a positive emotional experience.
+  - As a user, I want to use the site as a teaching tool across multiple devices.
+  - As a colourblind user, I want to learn more about colours I see differently to others.
 
 - **Site Objectives**
 
