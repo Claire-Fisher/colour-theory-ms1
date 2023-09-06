@@ -6,7 +6,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 ## Contents
 
-[Planning & Development](https://https://github.com/Claire-Fisher/colour-theory-ms1/blob/main/README.md#planning--development)
+[Planning & Development](#Planning-and-Development)
 
 [Features]
 
@@ -20,9 +20,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 [Media]
 
-[Credits](https://https://github.com/Claire-Fisher/colour-theory-ms1/blob/main/README.md#credits)
+[Credits](#credits)
 
-## Planning & Development
+## Planning and Development
 
 - **Business Strategy**
 
@@ -116,11 +116,11 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Credits
 
-- **Content**
+## **Content**
 
 - Geeksforgeeks helped me with my flexbox grid layout. [View here](https://www.geeksforgeeks.org/how-to-set-space-between-the-flexbox/)
 
-- **Thanks**
+## **Thanks**
 
 - Richard Wells: my Code Institute Mentor.
 
