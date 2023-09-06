@@ -26,3 +26,13 @@ MID GREY    #ccc
 .bg-navbar a {
     color:#ccc;
 }
+
+/* ............................................GRID STYLES */
+
+.grid {
+    background-color: #fff;
+}
+
+section {
+    background-color: #ccc;   
+}
