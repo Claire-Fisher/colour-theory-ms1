@@ -34,6 +34,7 @@ header a img {
  .nav-link {
     position: relative;
     bottom: -45px;
+    font-size: large;
  }
 /* ............................................GRID STYLES */
 
