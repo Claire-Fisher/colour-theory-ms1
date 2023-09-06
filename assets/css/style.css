@@ -27,6 +27,10 @@ MID GREY    #ccc
     color:#ccc;
 }
 
+header a img {
+    width:100px;
+    height:100px;
+}
 /* ............................................GRID STYLES */
 
 section {
