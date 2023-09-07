@@ -42,6 +42,10 @@ header a img {
     bottom: -50px;
     font-size: large;
  }
+
+ .dropdown {
+    background-color: #000;
+ }
 /* ............................................GRID STYLES */
 
 section {
