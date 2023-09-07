@@ -46,6 +46,7 @@ header a img {
 
 section {
     margin:0;
+    position:absolute;
     background-color: #ccc;   
 }
 
