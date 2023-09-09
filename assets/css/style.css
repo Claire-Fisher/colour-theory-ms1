@@ -43,9 +43,17 @@ header a img {
     font-size: large;
  }
 
+ a.dropdown-item {
+    color:#000;
+ }
+
+
+ /* NEED TO CHANGE THE HOVER OVER COLOR ON THIS DROPDOWN */
  .dropdown {
     background-color: #000;
  }
+
+
 /* ............................................GRID STYLES */
 
 section {
