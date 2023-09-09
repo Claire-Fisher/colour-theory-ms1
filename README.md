@@ -134,6 +134,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - Geeksforgeeks helped me with my flexbox grid layout. [View here](https://www.geeksforgeeks.org/how-to-set-space-between-the-flexbox/)
 
+- w3schools: code to create an Image Gallery with a Horizontal Scroll. [View here](https://www.w3schools.com/howto/howto_css_image_gallery_scroll.asp)
+
 ## **Thanks**
 
 - Richard Wells: my Code Institute Mentor.
