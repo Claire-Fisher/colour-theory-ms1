@@ -85,11 +85,24 @@ header a img {
  }
 
  div.dropdown-menu.show{
-    margin:0;
-    padding: 0 0;
     position:absolute;
     margin-top:50px;
     margin-left:-4px;
+ }
+
+ /* ............................................GALLERY STYLES */
+
+ div .scroll-container {
+    margin:0;
+    padding:0;
+    overflow: auto;
+    white-space: nowrap;
+ }
+
+ .gallery {
+    overflow: auto;
+    width:200px;
+    height:200px;
  }
 
 
