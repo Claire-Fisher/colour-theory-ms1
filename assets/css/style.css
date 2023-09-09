@@ -44,7 +44,8 @@ header a img {
  }
 
  a.dropdown-item {
-    color:#000;
+    color:#ccc;
+    background-color: #000;
  }
 
 
