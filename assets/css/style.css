@@ -1,20 +1,47 @@
 
 
-/* ............................................PROJECT COLOR PALETTE 
+/* ............................................PROJECT COLOR PALETTE */
 
-RED         #d93c35
-ORANGE      #e99740
-YELLOW      #f6ef55
-GREEN       #60b456
-BLUE        #55a7dd
-PURPLE      #9843b4
-BROWN       #5a3c1d
-BLACK       #000
-WHITE       #fff
+#red-bg {
+    background-color: #d93c35;
+}
 
-MID GREY    #ccc
+#orange-bg {
+    background-color: #e99740;
+}
 
-*/
+#yellow-bg {
+    background-color: #f6ef55;
+}
+
+#green-bg {
+    background-color: #60b456;
+}
+
+#blue-bg {
+    background-color: #55a7dd;
+}
+
+#purple-bg {
+    background-color: #9843b4;
+}
+
+#brown-bg {
+    background-color: #5a3c1d;
+}
+
+#black-bg {
+    background-color: #000;
+}
+
+#white-bg {
+    background-color: #fff;
+}
+
+#mid-grey-bg {
+    background-color: #ccc;
+}
+
 
 
 /* ............................................NAVBAR STYLES */
@@ -56,6 +83,7 @@ header a img {
 
  div.dropdown-menu.show{
     margin:0;
+    padding; 0 0;
     position:absolute;
     margin-top:50px;
     margin-left:-4px;
