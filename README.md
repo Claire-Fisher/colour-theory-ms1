@@ -33,7 +33,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - **Target Audiences Summary**
 
   - Users who are looking for information about the meaning of colours.
-  - Designers who want insight into why certain colours are chosen for specifics job in design. e.g. Warning signs / Product packaging / Interior-design / Fashion.
+  - Designers who want insight into why certain colours are chosen for specific jobs in design. e.g. Warning signs / Product packaging / Interior-design / Fashion.
   - Users who want a clear and easy-to-use teaching tool for colour theory.
   - Users who are curious about the science behind colour.
   - Users who want to research the psychology of colour.
@@ -125,6 +125,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Git and Github as my version control system for the site.
 - Figma to create design-boards, wireframes and prototypes.
 - Procreate to create design pages and sketch-work, images and logo.
+- tingpng.com [Visit site](https://tinypng.com/)
 
 # Media
 
