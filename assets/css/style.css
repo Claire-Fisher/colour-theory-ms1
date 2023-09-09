@@ -43,7 +43,6 @@
 }
 
 
-
 /* ............................................NAVBAR STYLES */
 
 header {
@@ -71,8 +70,12 @@ header a img {
  }
 
  a.dropdown-item {
-    color:#ccc;
+    color:#000;
     background-color: #000;
+ }
+
+#red-bg, #black-bg, #brown-bg {
+    color:#ccc;
  }
 
 
@@ -83,7 +86,7 @@ header a img {
 
  div.dropdown-menu.show{
     margin:0;
-    padding; 0 0;
+    padding: 0 0;
     position:absolute;
     margin-top:50px;
     margin-left:-4px;
