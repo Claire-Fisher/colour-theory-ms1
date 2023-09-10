@@ -79,11 +79,17 @@ header a img {
     background-color: #000;
 }
 
+.nav-item {
+    position:relative;
+    margin-bottom: -50px;
+}
+
 .nav-link {
     position: relative;
     bottom: -30px;
     font-size: large;
  }
+
 
  a.dropdown-item {
     color:#000;
@@ -95,7 +101,7 @@ header a img {
 
  div.dropdown-menu.show {
     position:absolute;
-    margin-top:38px;
+    margin-top:24px;;
     margin-left:-4px;
     padding:0;
  }
