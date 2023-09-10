@@ -49,6 +49,10 @@
     color: #fafafa;
 }
 
+#orange-bg, #yellow-bg, #green-bg, #blue-bg, #white-bg {
+    color:#000;
+}
+
 
 /* ............................................NAVBAR STYLES */
 
