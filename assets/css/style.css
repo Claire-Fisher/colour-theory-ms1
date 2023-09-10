@@ -59,7 +59,7 @@ header {
 }
 
 .navbar {
-    padding:3px 0;
+    padding:0;
 }
 
 header a img {
@@ -77,10 +77,6 @@ header a img {
 
 .bg-navbar {
     background-color: #000;
-}
-
-.bg-navbar a {
-    color:#ccc;
 }
 
 .nav-link {
