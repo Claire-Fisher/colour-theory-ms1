@@ -46,13 +46,12 @@
 /* ............................................NAVBAR STYLES */
 
 header {
-    margin:0;
     height:150px;
 }
 
 header a img {
-    width: 150px;
-    height: 100px;
+    max-width: 300px;
+    max-height: 150px;
     object-fit: contain;
 }
 
