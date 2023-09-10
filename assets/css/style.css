@@ -53,13 +53,26 @@
 /* ............................................NAVBAR STYLES */
 
 header {
+    margin:0;
+    padding:0;
     height:150px;
 }
 
+.navbar {
+    padding:3px 0;
+}
+
 header a img {
+    position:relative;
     max-width: 300px;
     max-height: 150px;
     object-fit: contain;
+    background-color: #000;
+}
+
+.navbar-brand {
+    margin:0;
+    padding:0;
 }
 
 .bg-navbar {
