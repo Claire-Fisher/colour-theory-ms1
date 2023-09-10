@@ -82,9 +82,9 @@ header a img {
 
 
  /* NEED TO CHANGE THE HOVER OVER COLOR ON THIS DROPDOWN */
- .dropdown {
+ /* .dropdown {
     background-color: #000;
- }
+ } */
 
  div.dropdown-menu.show {
     position:absolute;
