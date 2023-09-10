@@ -72,6 +72,7 @@ header a img {
 
  a.dropdown-item {
     color:#000;
+    
  }
 
 #red-bg, #black-bg, #brown-bg, #purple-bg {
@@ -84,10 +85,11 @@ header a img {
     background-color: #000;
  }
 
- div.dropdown-menu.show{
+ div.dropdown-menu.show {
     position:absolute;
     margin-top:50px;
     margin-left:-4px;
+    padding:0;
  }
 
  /* ............................................IMG GALLERY STYLES */
