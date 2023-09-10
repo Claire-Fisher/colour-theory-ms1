@@ -64,7 +64,7 @@ header a img {
     color:#ccc;
 }
 
- .nav-link {
+.nav-link {
     position: relative;
     bottom: -50px;
     font-size: large;
@@ -72,7 +72,6 @@ header a img {
 
  a.dropdown-item {
     color:#000;
-    
  }
 
 #red-bg, #black-bg, #brown-bg, #purple-bg {
@@ -81,9 +80,7 @@ header a img {
 
 
  /* NEED TO CHANGE THE HOVER OVER COLOR ON THIS DROPDOWN */
- .dropdown {
-    background-color: #000;
- }
+
 
  div.dropdown-menu.show {
     position:absolute;
