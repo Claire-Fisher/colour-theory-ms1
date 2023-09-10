@@ -81,14 +81,12 @@ header a img {
  }
 
 
-
-
  /* NEED TO CHANGE THE HOVER OVER COLOR ON THIS DROPDOWN */
 
 
  div.dropdown-menu.show {
     position:absolute;
-    margin-top:50px;
+    margin-top:38px;
     margin-left:-4px;
     padding:0;
  }
