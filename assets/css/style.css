@@ -42,6 +42,13 @@
     background-color: #ccc;
 }
 
+#red-bg,
+#black-bg,
+#brown-bg,
+#purple-bg {
+    color: #fafafa;
+}
+
 
 /* ............................................NAVBAR STYLES */
 
@@ -65,7 +72,7 @@ header a img {
 
 .nav-link {
     position: relative;
-    bottom: -50px;
+    bottom: -30px;
     font-size: large;
  }
 
@@ -73,9 +80,7 @@ header a img {
     color:#000;
  }
 
-#red-bg, #black-bg, #brown-bg, #purple-bg {
-    color:#fafafa;
- }
+
 
 
  /* NEED TO CHANGE THE HOVER OVER COLOR ON THIS DROPDOWN */
