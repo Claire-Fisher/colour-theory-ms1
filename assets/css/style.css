@@ -144,6 +144,12 @@ section {
     text-align: center;
 }
 
+/* ............................................COLOUR PAGES HEADER STYLE */
+
+h2 {
+    text-transform: uppercase;
+}
+
 /* ............................................FOOTER STYLES */
 
 footer {
