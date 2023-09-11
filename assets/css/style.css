@@ -172,7 +172,7 @@ section {
     text-align: right;
 }
 
-#burger-icon {
+.burger-icon {
     background-color:#000;
     color:#fafafa;
     border:0;
