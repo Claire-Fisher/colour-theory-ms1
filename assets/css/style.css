@@ -162,7 +162,17 @@ section {
 
 /* ............................................COLOUR PAGES HEADER STYLE */
 
-h2 {
+#burger-title {
+    text-transform: uppercase;
+    font-size: 2rem;
+    letter-spacing: 3px;
+    margin: 0;
+    display: block;
+    padding: 0 16px;
+    text-align: right;
+}
+
+/* h2 {
     text-transform: uppercase;
     font-size: 2rem;
     letter-spacing:3px;
@@ -170,7 +180,7 @@ h2 {
     display:block;
     padding:0 16px;
     text-align: right;
-}
+} */
 
 /* ............................................FOOTER STYLES */
 
