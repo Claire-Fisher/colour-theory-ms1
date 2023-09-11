@@ -185,7 +185,7 @@ footer {
 }  */
 
 @media screen and (max-width:768px) {
-    .mobile-header {
-
+    #menu-toggle {
+        display: none;
     }
  }
