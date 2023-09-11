@@ -75,22 +75,13 @@
     height:150px;
 }
 
+h2 {
+    max-width: 60%;
+}
+
 .navbar {
     padding:0;
 }
-
-/* header a img {
-    position:relative;
-    max-width: 300px;
-    max-height: 150px;
-    object-fit: contain;
-    background-color: #000;
-}
-
-.navbar-brand {
-    margin:0;
-    padding:0;
-} */
 
 .bg-navbar {
     background-color: #000;
