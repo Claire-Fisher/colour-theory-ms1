@@ -58,7 +58,17 @@
 
 /* ............................................NAVBAR STYLES */
 
-/* header {
+.logo {
+    background: url("../images/colour-theory-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height:150px;
+    max-width:30%;
+    margin-left: 20px;
+}
+
+ header {
     margin:0;
     padding:0;
     height:150px;
@@ -68,7 +78,7 @@
     padding:0;
 }
 
-header a img {
+/* header a img {
     position:relative;
     max-width: 300px;
     max-height: 150px;
@@ -105,12 +115,12 @@ header a img {
  /* NEED TO CHANGE THE HOVER OVER COLOR ON THIS DROPDOWN */
 
 
- div.dropdown-menu.show {
+ /* div.dropdown-menu.show {
     position:absolute;
     margin-top:20px;;
     margin-left:-4px;
     padding:0;
- }
+ } */
 
  /* ............................................IMG GALLERY STYLES */
 
