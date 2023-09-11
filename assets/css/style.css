@@ -172,16 +172,12 @@ section {
     text-align: right;
 }
 
-
-/* h2 {
-    text-transform: uppercase;
-    font-size: 2rem;
-    letter-spacing:3px;
-    margin:0;
-    display:block;
-    padding:0 16px;
-    text-align: right;
-} */
+#burger-icon {
+    background-color:#000;
+    color:#fafafa;
+    border:0;
+    font-size:45px;
+}
 
 /* ............................................FOOTER STYLES */
 
