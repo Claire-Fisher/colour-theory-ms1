@@ -191,9 +191,11 @@ footer {
 
 /* ............................................MEDIA QUERIES */
 
-/* @media screen and (max-width: 992) {
-    
-}  */
+@media screen and (min-width: 992px) {
+    #burger-title i {
+        display: none !important;
+    }
+} 
 
 @media screen and (max-width:992px) {
     #menu-hide {
