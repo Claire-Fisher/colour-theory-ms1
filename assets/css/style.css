@@ -83,21 +83,11 @@
     padding:0;
 }
 
-
 .nav-item {
     position:relative;
     margin-bottom: -50px;
+    font-size: 1.5rem;
 }
-
-.nav-link {
-    position: relative;
-    font-size: 2rem;
- }
-
-
- a.dropdown-item {
-    color:#000;
- } 
 
  #burger-title {
      text-transform: uppercase;
