@@ -108,7 +108,7 @@ h1 {
 }
 
 
- #burger-title {
+ .burger-title {
     text-transform: uppercase;
     font-size: 1rem;
     letter-spacing: 3px;
@@ -176,7 +176,7 @@ footer {
 /* ............................................MEDIA QUERIES */
 
 @media screen and (min-width: 768px) {
-    #burger-title button {
+    .burger-title button {
         display: none !important;
     }
 } 
