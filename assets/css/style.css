@@ -187,7 +187,12 @@ section {
     z-index: 2;
 }
 
-/* ............................................COLOUR PAGES HEADER STYLE */
+/* ............................................COLOUR PAGES STYLE */
+
+div .card-header {
+    margin:0;
+    padding:0;
+}
 
 
 
