@@ -122,6 +122,8 @@ h1 {
      background-color: #000;
      color: #fafafa;
      border: 0;
+     padding:0;
+     margin:20px 0 0 0;
      font-size: 45px;
  }
 
