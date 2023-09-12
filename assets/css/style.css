@@ -194,6 +194,10 @@ div .card-header {
     padding:0;
 }
 
+#white-card-body {
+    background-color: #bbbbbb;
+}
+
 
 
 /* ............................................FOOTER STYLES */
