@@ -83,6 +83,10 @@ h1 {
     margin:0;
 }
 
+.home {
+    visibility: hidden;
+}
+
 /* h2 {
     max-width: 60%;
 } */
