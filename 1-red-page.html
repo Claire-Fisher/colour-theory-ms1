@@ -23,31 +23,32 @@
     <link rel="stylesheet" href="assets/css/style.css" />
   </head>
   <body>
-    <header id="red-bg" class="navbar navbar-light bg-navbar">
+    <header id="red-bg" class="navbar row .no-gutters">
+      <h1>Colour Theory: An introduction to the power of colour.</h1>
       <!---------------------------------------------------------------------HEADER LOGO-->
-      <a class="navbar-brand align-content-start" href="./index.html">
-        <h1>
-          <img
-            src="./assets/images/Colour theory logo.png"
-            class="d-inline-block"
-            alt="Logo"
-          />
-        </h1>
-      </a>
-      <h2 id="red-bg" class="page-title">red</h2>
+      <a
+        href="index.html"
+        alt="colour theory logo"
+        class="col-xs-4 col-sm-4 col-md-4 logo"
+      ></a>
       <!---------------------------------------------------------------------HEADER NAVBAR-->
-      <ul class="nav justify-content-end">
-        <li class="nav-item dropdown">
-          <a
-            id="red-bg"
-            class="nav-link btn dropdown-toggle active"
-            href="#"
-            role="button"
+      <nav class="col-xs-8 col-sm-8 col-md-8">
+        <div id="burger-title" class="dropdown">
+          <h2 id="red-bg" class="block">red</h2>
+          <button
+            id="dropdownMenuButton"
+            class="burger-icon btn"
             data-toggle="dropdown"
+            aria-haspopup="true"
             aria-expanded="false"
-            >Colours</a
           >
-          <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+            <i class="block fa-sharp fa-solid fa-bars"></i>
+          </button>
+          <div
+            id="burger-dropdown"
+            class="dropdown-menu"
+            aria-labelledby="dropdownMenuButton"
+          >
             <a class="dropdown-item" href="./1-red-page.html" id="red-bg"
               >Red</a
             >
@@ -76,14 +77,69 @@
               >White</a
             >
           </div>
-        </li>
-        <li class="nav-item">
-          <a id="red-bg" class="nav-link" href="./science-page.html">Science</a>
-        </li>
-        <li class="nav-item">
-          <a id="red-bg" class="nav-link" href="./media-page.html">Media</a>
-        </li>
-      </ul>
+        </div>
+        <ul id="menu-hide" class="nav justify-content-end">
+          <li class="dropdown">
+            <a
+              id="red-bg"
+              class="nav-link dropdown-toggle nav-item"
+              href="#"
+              role="button"
+              id="dropdownMenuLink"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+              >Colours</a
+            >
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuReference">
+              <a class="dropdown-item" href="./1-red-page.html" id="red-bg"
+                >Red</a
+              >
+              <a
+                class="dropdown-item"
+                href="./2-orange-page.html"
+                id="orange-bg"
+                >Orange</a
+              >
+              <a
+                class="dropdown-item"
+                href="./3-yellow-page.html"
+                id="yellow-bg"
+                >Yellow</a
+              >
+              <a class="dropdown-item" href="./4-green-page.html" id="green-bg"
+                >Green</a
+              >
+              <a class="dropdown-item" href="./5-blue-page.html" id="blue-bg"
+                >Blue</a
+              >
+              <a
+                class="dropdown-item"
+                href="./6-purple-page.html"
+                id="purple-bg"
+                >Purple</a
+              >
+              <a class="dropdown-item" href="./7-brown-page.html" id="brown-bg"
+                >Brown</a
+              >
+              <a class="dropdown-item" href="./8-black-page.html" id="black-bg"
+                >Black</a
+              >
+              <a class="dropdown-item" href="./9-white-page.html" id="white-bg"
+                >White</a
+              >
+            </div>
+          </li>
+          <li class="nav-item">
+            <a id="red-bg" class="nav-link" href="./science-page.html"
+              >Science</a
+            >
+          </li>
+          <li class="nav-item">
+            <a id="red-bg" class="nav-link" href="./media-page.html">Media</a>
+          </li>
+        </ul>
+      </nav>
     </header>
     <!---------------------------------------------------------------------IMG GALLERY-->
     <div class="scroll-container">
