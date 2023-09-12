@@ -162,9 +162,24 @@ section {
     background-color: #fff;
 }
 
-.center {
+/* .center {
     position:relative;
     text-align: center;
+} */
+
+.splat-box {
+    /* position:absolute; */
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .splat-box img {
+    z-index: 1;
+} */
+
+.splat-box p {
+    z-index: 2;
 }
 
 /* ............................................COLOUR PAGES HEADER STYLE */
