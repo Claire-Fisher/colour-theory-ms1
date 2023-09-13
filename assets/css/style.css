@@ -44,14 +44,13 @@
     background-color: #ccc;
 }
 
-#red-bg,
 #black-bg,
 #brown-bg,
 #purple-bg {
     color: #fafafa;
 }
 
-#orange-bg, #yellow-bg, #green-bg, #blue-bg, #white-bg {
+#red-bg, #orange-bg, #yellow-bg, #green-bg, #blue-bg, #white-bg {
     color:#000;
 }
 
