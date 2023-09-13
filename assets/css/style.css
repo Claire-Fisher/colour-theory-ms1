@@ -205,6 +205,16 @@ div .card-header {
     background-size: contain;
     max-width:600px;
 }
+/* ............................................SCIENCE PAGE STYLE */
+
+#mantis-shrimp a,
+#mantis-shrimp p {
+    background-color: #9843b4;
+    /* position: relative; */
+    background-position: center;
+    background-size: contain;
+    max-width: 600px;
+}
 
 
 /* ............................................FOOTER STYLES */
