@@ -127,10 +127,10 @@ h1 {
  }
 
  .burger-icon {
-     border: 0;
-     padding:0;
-     margin:20px 0 0 0;
-     font-size: 45px;
+    border: 0;
+    padding:0;
+    margin:0;
+    font-size: 45px;
  }
 
  /* ............................................IMG GALLERY STYLES */
@@ -214,9 +214,12 @@ footer {
     }
 } 
 
-@media screen and (max-width:768px) {
+@media screen and (min-width:300px)and (max-width:768px) {
     #menu-hide {
         display: none !important;
+    }
+    .burger-title {
+        margin: 0 70px 0 0;
     }
  }
 
