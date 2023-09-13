@@ -197,11 +197,13 @@ div .card-header {
 
 /* ............................................MEDIA PAGE STYLE */
 
-#media-section iframe {
+#media-section iframe, 
+#media-section img {
     background-color: #9843b4;
     position: relative;
     background-position: center;
     background-size: contain;
+    max-width:600px;
 }
 
 
