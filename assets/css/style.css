@@ -1,6 +1,4 @@
-*{
-    margin:0;
-}
+
 
 /* ............................................PROJECT COLOR PALETTE */
 
@@ -197,7 +195,11 @@ div .card-header {
     background-color: #bbbbbb;
 }
 
+/* ............................................MEDIA PAGE STYLE */
 
+#media-section {
+    background-color: #9843b4;
+}
 
 /* ............................................FOOTER STYLES */
 
