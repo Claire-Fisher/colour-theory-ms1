@@ -129,6 +129,12 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Media
 
+- YouTube videos
+  - Flow Studio: Color Theory for Noobs [Visit here](https://www.youtube.com/watch?v=AvgCkHrcj90)
+  - Blender Guru: Understanding Color [Visit here](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
+  - GCFLearnFree: Beginning Graphic Design: Color [Visit here](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+  - Satori Graphics: ADVANCED Colour Theory Makes Designs SUPERIOR! [Visit here](https://www.youtube.com/watch?v=XNkV6m4fosw)
+
 # Credits
 
 ## **Content**
