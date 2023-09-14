@@ -138,6 +138,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - TedTalks
   - ["I Listen To Color": Neil Harbisson](https://www.ted.com/talks/neil_harbisson_i_listen_to_color?language=en)
+  - ["What is color?": Colm Kelleher](https://www.ted.com/talks/colm_kelleher_what_is_color)
+  - ["How we see color": Colm Kelleher](https://www.ted.com/talks/colm_kelleher_how_we_see_color)
+  - ["What color is Tuesday? Exploring synesthesia": Richard Cytowic](https://www.ted.com/talks/richard_e_cytowic_what_color_is_tuesday_exploring_synesthesia)
 
 # Credits
 
