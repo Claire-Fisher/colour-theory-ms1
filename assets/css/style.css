@@ -211,6 +211,30 @@ div .card-header {
     margin:0;
 }
 
+.design-list {
+    text-transform: capitalize;
+    text-align: center;
+    margin: 0;
+
+}
+
+.list-title {
+    text-decoration: underline;
+    font-weight:700;
+    list-style-type: none;
+}
+
+.design {
+    text-align:center;
+}
+
+.opposite-color {
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+}
+
 /* ............................................MEDIA PAGE STYLE */
 
 #media-section iframe, 
