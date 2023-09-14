@@ -130,10 +130,14 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 # Media
 
 - YouTube videos
+
   - Flow Studio: Color Theory for Noobs [Visit here](https://www.youtube.com/watch?v=AvgCkHrcj90)
   - Blender Guru: Understanding Color [Visit here](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
   - GCFLearnFree: Beginning Graphic Design: Color [Visit here](https://www.youtube.com/watch?v=_2LLXnUdUIc)
   - Satori Graphics: ADVANCED Colour Theory Makes Designs SUPERIOR! [Visit here](https://www.youtube.com/watch?v=XNkV6m4fosw)
+
+- TedTalks
+  - ["I Listen To Color": Neil Harbisson](https://www.ted.com/talks/neil_harbisson_i_listen_to_color?language=en)
 
 # Credits
 
@@ -142,6 +146,24 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Geeksforgeeks helped me with my flexbox grid layout. [View here](https://www.geeksforgeeks.org/how-to-set-space-between-the-flexbox/)
 
 - w3schools: code to create an Image Gallery with a Horizontal Scroll. [View here](https://www.w3schools.com/howto/howto_css_image_gallery_scroll.asp)
+
+- Heller, E. (2009). Psychology of Colors - Color in Motion. Verlagshaus Braun.
+- Gage, J. (1993). Colour and Culture: Practice and Meaning from Antiquity to Abstraction. Thames & Hudson.
+- [London Image Institute](https://londonimageinstitute.com/how-to-empower-yourself-with-color-psychology/)
+- [VeryWellMind](https://www.verywellmind.com/color-psychology-2795824#toc-history-of-color-psychology)
+- [Science of People](https://www.scienceofpeople.com/color-psychology/)
+- [Color Psychology.org](https://www.colorpsychology.org/)
+- [Fifteen Design](https://www.fifteendesign.co.uk/blog/how-colour-influences-our-decision-colour-psychology-in-design/)
+- [Springer Link](https://link.springer.com/article/10.3758/s13428-015-0598-8#:~:text=The%20color%20red%20was%20most%20associated%20with%20anger%2C%20green%20with,%E2%80%9D%20or%20%E2%80%9Cfeeling%20blue.%E2%80%9D)
+- [Colour-affects](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+- [User Testing](https://www.usertesting.com/blog/color-ux-conversion-rates)
+- [American Museum of Natural History](https://www.amnh.org/explore/ology/brain/seeing-color#:~:text=Light%20travels%20into%20the%20eye,Cone%20cells%20help%20detect%20colors.)
+- [color-meanings.com](https://www.color-meanings.com/color-psychology-how-colors-affect-your-everyday-life/)
+- [scmp](https://www.scmp.com/yp/learn/learning-resources/article/3069861/33-english-colour-idioms-make-your-writing-more)
+- [azquotes.com](https://www.azquotes.com/quotes/topics/orange.html)
+- [Smashing Magazine - Color Theory for Deisngers](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/#:~:text=Orange%20is%20also%20strongly%20associated,less%20in%E2%80%93your%E2%80%93face.)
+- [Sitepoint.com](https://www.sitepoint.com/color-in-design-orange/)
+- [Adobe.com](https://www.adobe.com/creativecloud/design/hub/guides/meaning-of-green-in-design.html#:~:text=Associated%20with%20nature%20and%20positivity,as%20your%20design's%20primary%20color.)
 
 ## **Thanks**
 
