@@ -195,6 +195,10 @@ div .card-header {
     padding:0;
 }
 
+.card-body.row {
+    padding:10px;
+}
+
 #white-card-body {
     background-color: #bbbbbb;
 }
@@ -203,6 +207,7 @@ div .card-header {
     text-transform: capitalize;
     font-weight:700;
     text-align: center;
+    margin:0;
 }
 
 /* ............................................MEDIA PAGE STYLE */
