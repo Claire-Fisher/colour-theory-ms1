@@ -56,6 +56,10 @@
     text-transform: uppercase;
 }
 
+.bold {
+    font-weight:700;
+}
+
 
 /* ............................................NAVBAR STYLES */
 h1 {
@@ -193,6 +197,12 @@ div .card-header {
 
 #white-card-body {
     background-color: #bbbbbb;
+}
+
+.psyc-list {
+    text-transform: capitalize;
+    font-weight:700;
+    text-align: center;
 }
 
 /* ............................................MEDIA PAGE STYLE */
