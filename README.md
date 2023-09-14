@@ -183,6 +183,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - David Calikes: for his excellent README file which I've used as a template. [View here](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md?plain=1)
 
-- Tom Harris: my biggest cheerleader.
+- Tom Harris: my excellent research buddy and my biggest cheerleader.
 
 - Shaun Russell: my partner, my UI/UX personal mentor, and my provider while I study. Building my new development career change would have been infinitely harder without you. Thank you.
