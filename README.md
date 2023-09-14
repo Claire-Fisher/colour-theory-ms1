@@ -167,6 +167,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - [Smashing Magazine - Color Theory for Deisngers](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/#:~:text=Orange%20is%20also%20strongly%20associated,less%20in%E2%80%93your%E2%80%93face.)
 - [Sitepoint.com](https://www.sitepoint.com/color-in-design-orange/)
 - [Adobe.com](https://www.adobe.com/creativecloud/design/hub/guides/meaning-of-green-in-design.html#:~:text=Associated%20with%20nature%20and%20positivity,as%20your%20design's%20primary%20color.)
+- [trvst](https://www.trvst.world/mind-body/green-color-quotes/#:~:text=%22Green%20is%20the%20prime%20color,from%20which%20its%20loveliness%20arises.%22&text=%22Being%20green%20and%20clean%20is,an%20aspiration%20but%20an%20action.%22&text=%22When%20you're%20green%2C,re%20ripe%2C%20you%20rot.%22)
+- [phrases.com](https://www.phrases.com/psearch/)
 
 ## **Thanks**
 
