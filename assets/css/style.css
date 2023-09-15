@@ -154,6 +154,12 @@ h1 {
 
 /* ............................................COLOUR SPLAT GRID STYLES */
 
+.splat-box p {
+    margin:auto;
+    text-align: center;
+
+}
+
 /* section {
     margin:0;
     position:absolute;
