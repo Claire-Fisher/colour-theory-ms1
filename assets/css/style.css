@@ -262,9 +262,11 @@ div .card-header {
 
 /* ............................................FOOTER STYLES */
 
-footer {
-    height:130px;
+footer h6, footer p, footer a {
+    font-weight:100;
 }
+
+
 
 /* ............................................MEDIA QUERIES */
 
