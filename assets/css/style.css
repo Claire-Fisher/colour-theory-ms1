@@ -39,7 +39,7 @@
 }
 
 #mid-grey-bg {
-    background-color: #ccc;
+    background-color: #eee;
 }
 
 #black-bg,
@@ -153,11 +153,21 @@ h1 {
 
 
 /* ............................................COLOUR SPLAT GRID STYLES */
+.splat-box {
+    height:100px;
+    line-height:100px;
+    max-width:100px;
+}
 
 .splat-box p {
-    margin:auto;
+    display: inline-block;
+    line-height:normal;
+    vertical-align: middle;
     text-align: center;
+}
 
+#splat-grid {
+    padding:0;
 }
 
 /* section {
@@ -235,7 +245,7 @@ div .card-header {
 /* ............................................SCIENCE + MEDIA PAGE STYLES */
 
 .media-borders {
-    border:10px solid #fff;
+    border:10px solid #eee;
     max-width: 500px;
 }
 
