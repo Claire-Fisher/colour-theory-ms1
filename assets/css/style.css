@@ -155,6 +155,7 @@ h1 {
 /* ............................................COLOUR SPLAT GRID STYLES */
 .splat-box {
     height:150px;
+    line-height:125px;
 }
 
 .splat-box-borders {
@@ -164,6 +165,11 @@ h1 {
 
 #splat-grid {
     padding:0;
+}
+
+.splat-box p {
+    text-align: center;
+    vertical-align: middle;
 }
 
 /* section {
