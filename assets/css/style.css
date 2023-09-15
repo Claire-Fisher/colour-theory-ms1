@@ -242,15 +242,13 @@ div .card-header {
     max-width: 500px;
 }
 
-#mantis-shrimp a,
-#mantis-shrimp p {
-    background-color: #9843b4;
-    /* position: relative; */
-    background-position: center;
-    background-size: contain;
-    max-width: 600px;
+.mantis-position {
+    text-align: right;
 }
 
+.mantis-text {
+    text-align:left;
+}
 
 /* ............................................FOOTER STYLES */
 
@@ -273,5 +271,12 @@ footer {
     .burger-title {
         margin: 0 70px 0 0;
     }
+    .mantis-position {
+        text-align: center;
+    }
+    .mantis-text {
+        text-align: center;
+    }
+
  }
 
