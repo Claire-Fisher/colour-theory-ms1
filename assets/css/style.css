@@ -238,18 +238,10 @@ div .card-header {
 /* ............................................MEDIA PAGE STYLE */
 
 .media-borders {
-    border:10px solid purple;
+    border:10px solid #fff;
     max-width: 500px;
 }
 
-/* #media-section iframe, 
-#media-section img {
-    background-color: #9843b4;
-    position: relative;
-    background-position: center;
-    background-size: contain;
-    max-width:600px;
-} */
 
 /* ............................................SCIENCE PAGE STYLE */
 
