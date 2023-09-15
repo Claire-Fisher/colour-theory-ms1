@@ -154,16 +154,12 @@ h1 {
 
 /* ............................................COLOUR SPLAT GRID STYLES */
 .splat-box {
-    height:100px;
-    line-height:100px;
-    max-width:100px;
+    height:150px;
 }
 
-.splat-box p {
-    display: inline-block;
-    line-height:normal;
-    vertical-align: middle;
-    text-align: center;
+.splat-box-borders {
+    border: 10px solid #ccc;
+    max-width: 500px;
 }
 
 #splat-grid {
