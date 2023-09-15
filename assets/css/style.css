@@ -237,6 +237,11 @@ div .card-header {
 
 /* ............................................MEDIA PAGE STYLE */
 
+.media-borders {
+    border:10px solid purple;
+    max-width: 500px;
+}
+
 /* #media-section iframe, 
 #media-section img {
     background-color: #9843b4;
