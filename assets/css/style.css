@@ -61,11 +61,12 @@
     letter-spacing:2px;
 }
 
+h1 {
+    font-size:2rem;
+}
+
 
 /* ............................................NAVBAR STYLES */
-h1 {
-    display:none;
-}
 
 
 .logo {
@@ -288,6 +289,9 @@ footer h6, footer p, footer a {
     }
     .mantis-text {
         text-align: center;
+    }
+    h1 {
+        font-size:1.5rem;
     }
 
  }
