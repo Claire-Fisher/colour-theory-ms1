@@ -150,6 +150,10 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - w3schools: code to create an Image Gallery with a Horizontal Scroll. [View here](https://www.w3schools.com/howto/howto_css_image_gallery_scroll.asp)
 
+- KenBroTeach Youtube tutorial for Bootstrap4 Grid system [View here](https://www.youtube.com/watch?v=Tldw2tFMTeY)
+
+- KenBroTeach Youtube tutorial for Bootstrap4 Grid breakpoints [View here](https://www.youtube.com/watch?v=R1gHdv1koh4)
+
 - Heller, E. (2009). Psychology of Colors - Color in Motion. Verlagshaus Braun.
 - Gage, J. (1993). Colour and Culture: Practice and Meaning from Antiquity to Abstraction. Thames & Hudson.
 - [London Image Institute](https://londonimageinstitute.com/how-to-empower-yourself-with-color-psychology/)
