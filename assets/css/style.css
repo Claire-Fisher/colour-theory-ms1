@@ -269,7 +269,9 @@ div .card-header {
     font-weight:200;
 }
 
-
+.social-icon {
+    font-size: 150%;
+}
 
 /* ............................................MEDIA QUERIES */
 
