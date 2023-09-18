@@ -104,7 +104,7 @@ h1 {
 }
 
 .nav-link:hover,.dropdown-item:hover {
-    text-decoration: underline 2pt;
+    text-decoration: underline 1pt;
 }
 
 .navbar-toggler-icon {
@@ -112,7 +112,7 @@ h1 {
 }
 
 .active {
-    text-decoration: underline 2pt;
+    text-decoration: underline 1pt;
 }
 
 /* .navbar-collapse {
