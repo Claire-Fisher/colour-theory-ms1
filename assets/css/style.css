@@ -56,6 +56,10 @@
     text-transform: uppercase;
 }
 
+.capitalize {
+    text-transform: capitalize;
+}
+
 .bold {
     font-weight:700;
     letter-spacing:2px;
@@ -83,6 +87,7 @@ h1 {
     padding:0;
     height:150px;
 }
+
 
 .block {
     margin:0;
