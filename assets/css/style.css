@@ -107,6 +107,10 @@ h1 {
     text-decoration: underline 2pt;
 }
 
+.navbar-toggler-icon {
+    font-size:45px;
+}
+
 /* .navbar-collapse {
     right: 0;
     bottom: 3px;
