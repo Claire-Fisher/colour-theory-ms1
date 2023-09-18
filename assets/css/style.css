@@ -151,6 +151,15 @@ h1 {
     overflow:hidden;
     text-align: center;
     vertical-align: middle;
+    z-index: 1;
+}
+
+.splat-img {
+    position:absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 0;
 }
 
 .splat-box-borders {
