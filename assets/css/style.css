@@ -146,6 +146,7 @@ h1 {
 /* ............................................COLOUR SPLAT GRID STYLES */
 .splat-box {
     position:relative;
+    display:flex;
     height:150px;
     line-height:125px;
     overflow:hidden;
