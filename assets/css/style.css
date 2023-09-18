@@ -96,6 +96,10 @@ div.dropdown-menu.show {
     padding:0;
 }
 
+.navbar-toggler-icon {
+    font-size: 45px;
+}
+
  /* ............................................IMG GALLERY STYLES */
 
 .scroll-container {
