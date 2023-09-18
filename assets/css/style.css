@@ -111,6 +111,10 @@ h1 {
     font-size:45px;
 }
 
+.active {
+    text-decoration: underline 2pt;
+}
+
 /* .navbar-collapse {
     right: 0;
     bottom: 3px;
