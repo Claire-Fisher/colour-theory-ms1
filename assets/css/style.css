@@ -88,17 +88,35 @@ h1 {
     height:150px;
 }
 
-.nav-item { 
-    font-size: 1.5rem;
+.navbar {
+    position:relative;
 }
 
-div.dropdown-menu.show {
+.navbar-nav {
+    position:absolute;
+    font-size:1.5rem;
+    right:10px;
+    bottom:3px;
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.nav-link:hover,.dropdown-item:hover {
+    text-decoration: underline 2pt;
+}
+
+/* .navbar-collapse {
+    right: 0;
+    bottom: 3px;
+}  */
+
+/* #navbarNavDropdown,.nav-link {
+    z-index: 3;
     padding:0;
-}
+} */
 
-.navbar-toggler-icon {
-    font-size: 45px;
-}
 
  /* ............................................IMG GALLERY STYLES */
 
