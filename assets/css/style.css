@@ -88,56 +88,11 @@ h1 {
     height:150px;
 }
 
-
-.block {
-    margin:0;
-}
-
-.home {
-    visibility: hidden;
-}
-
-/* h2 {
-    max-width: 60%;
-} */
-
-.navbar {
-    padding:0;
-    margin:0;
-}
-
 .nav-item {
-    position:relative;
+    /* float: right; */
     font-size: 1.5rem;
 }
 
-.nav-link {
-    margin-top:50px;
-    margin-bottom:0;
-}
-
-.dropdown-menu {
-    padding:0;
-    margin:0;
-}
-
-
- .burger-title {
-    text-transform: uppercase;
-    font-size: 1rem;
-    letter-spacing: 3px;
-    margin: 0;
-    display: block;
-    padding: 0 16px;
-    text-align: right;
- }
-
- .burger-icon {
-    border: 0;
-    padding:0;
-    margin:0;
-    font-size: 45px;
- }
 
  /* ............................................IMG GALLERY STYLES */
 
