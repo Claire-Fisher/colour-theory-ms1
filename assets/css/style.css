@@ -86,10 +86,7 @@ h1 {
     margin:0;
     padding:0;
     height:150px;
-}
-
-.navbar {
-    position:relative;
+    position: relative;
 }
 
 .navbar-nav {
