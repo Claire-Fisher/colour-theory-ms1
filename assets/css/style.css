@@ -88,11 +88,13 @@ h1 {
     height:150px;
 }
 
-.nav-item {
-    /* float: right; */
+.nav-item { 
     font-size: 1.5rem;
 }
 
+div.dropdown-menu.show {
+    padding:0;
+}
 
  /* ............................................IMG GALLERY STYLES */
 
