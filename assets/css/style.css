@@ -271,6 +271,7 @@ div .card-header {
 
 ul ul {
     list-style-type: none;
+    padding-left:0;
 }
 
 .footer-link {
