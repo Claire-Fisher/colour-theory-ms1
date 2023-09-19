@@ -269,9 +269,13 @@ div .card-header {
     font-weight:200;
 }
 
+ul ul {
+    list-style-type: none;
+}
+
 .footer-link {
     font-size: .8rem;
-    line-height: .8;
+    line-height: .7;
     font-weight: 200;
 }
 
