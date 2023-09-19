@@ -263,10 +263,16 @@ div .card-header {
 
 /* ............................................FOOTER STYLES */
 
-.footer-title,.footer-link {
+.footer-title {
     font-size:.8rem;
     line-height:.8;
     font-weight:200;
+}
+
+.footer-link {
+    font-size: .8rem;
+    line-height: .8;
+    font-weight: 200;
 }
 
 .social-icon {
