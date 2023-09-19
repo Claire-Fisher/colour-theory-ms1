@@ -263,6 +263,10 @@ div .card-header {
 
 /* ............................................FOOTER STYLES */
 
+h6 {
+    font-weight:400;
+}
+
 .footer-title {
     font-size:.8rem;
     line-height:.8;
