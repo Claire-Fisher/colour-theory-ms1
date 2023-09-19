@@ -277,12 +277,6 @@ div .card-header {
 
 
 @media screen and (min-width:300px)and (max-width:768px) {
-    #menu-hide {
-        display: none !important;
-    }
-    .burger-title {
-        margin: 0 70px 0 0;
-    }
     .mantis-position {
         text-align: center;
     }
