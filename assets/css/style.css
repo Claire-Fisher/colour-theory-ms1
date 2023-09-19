@@ -206,9 +206,9 @@ div .card-header {
     padding:0;
 }
 
-.card-body.row {
+/* .card-body.row {
     padding:10px;
-}
+} */
 
 #white-card-body {
     background-color: #eee;
