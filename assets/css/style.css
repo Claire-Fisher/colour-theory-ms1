@@ -2,6 +2,10 @@
 
 /* ............................................PROJECT COLOR PALETTE */
 
+html {
+    background-color:#000;
+}
+
 #red-bg {
     background-color: #d93c35;
 }
