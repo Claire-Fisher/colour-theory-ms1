@@ -137,7 +137,9 @@ header {
 
 
 /* ............................................COLOUR SPLAT GRID STYLES */
-.splat-box {
+
+
+/* .splat-box {
     position:relative;
     display:flex;
     height:150px;
@@ -163,7 +165,7 @@ header {
 
 #splat-grid {
     padding:0;
-}
+} */
 
 
 /* section {
