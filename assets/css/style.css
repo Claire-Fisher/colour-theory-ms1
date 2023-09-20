@@ -71,6 +71,8 @@ html {
 
 h1 {
     font-size:2rem;
+    padding: 5px 0;
+    margin: 0;
 }
 
 /* ...........................................................NAVBAR STYLES */
