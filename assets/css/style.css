@@ -138,6 +138,9 @@ header {
 
 /* ............................................COLOUR SPLAT GRID STYLES */
 
+.img-fluid {
+    max-height:150px;
+}
 
 /* .splat-box {
     position:relative;
