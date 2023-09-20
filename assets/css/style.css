@@ -116,17 +116,6 @@ h1 {
     text-decoration: underline 1pt;
 }
 
-/* .navbar-collapse {
-    right: 0;
-    bottom: 3px;
-}  */
-
-/* #navbarNavDropdown,.nav-link {
-    z-index: 3;
-    padding:0;
-} */
-
-
  /* ............................................IMG GALLERY STYLES */
 
 .scroll-container {
@@ -209,10 +198,6 @@ div .card-header {
     margin:0;
     padding:0;
 }
-
-/* .card-body.row {
-    padding:10px;
-} */
 
 #white-card-body {
     background-color: #eee;
