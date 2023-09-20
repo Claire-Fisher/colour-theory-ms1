@@ -144,62 +144,6 @@ header {
     max-height: 200px;
 }
 
-
-/* .splat-box {
-    position:relative;
-    display:flex;
-    height:150px;
-    line-height:125px;
-    overflow:hidden;
-    text-align: center;
-    vertical-align: middle;
-    z-index: 1;
-}
-
-.splat-img {
-    position:absolute;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    z-index: 0;
-}
-
-.splat-box-borders {
-    border: 10px solid #ccc;
-    max-width: 500px;
-}
-
-#splat-grid {
-    padding:0;
-} */
-
-
-/* section {
-    margin:0;
-    position:absolute;
-    background-color: #ccc;   
-}
-
-.color-grid div {
-    display:flex;
-    justify-content: space-around;
-    margin:10px;
-    padding: 50px;
-    background-color: #fff;
-}
-
-.splat-box {
-    position:absolute;
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2rem;
-}
-
-.splat-box p {
-    z-index: 2;
-} */
-
 /* ............................................COLOUR PAGES STYLE */
 
 div .card-header {
