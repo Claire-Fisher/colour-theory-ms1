@@ -112,6 +112,7 @@ header {
 .nav-item a i {
     display:block;
     text-align: center;
+    font-size: 1rem;
 }
 
 .navbar-nav {
