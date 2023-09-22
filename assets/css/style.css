@@ -279,6 +279,11 @@ ul ul {
     .footer-title {
         padding-left:20px;
     }
+    .nav-item a i {
+        display:inline-block;
+        font-size: 1rem;
+        
+}
 
  }
 
