@@ -109,6 +109,11 @@ header {
     z-index:3;
 }
 
+.nav-item a i {
+    display:block;
+    text-align: center;
+}
+
 .navbar-nav {
     position:absolute;
     font-size:1.5rem;
