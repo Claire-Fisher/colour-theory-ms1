@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700&display=swap');
 
 
 /* ............................................PROJECT COLOR PALETTE */
@@ -5,6 +6,18 @@
 html {
     background-color:#000;
 }
+
+header {
+    font-family: 'Raleway',sans-serif;
+    font-weight: 600;
+}
+
+body {
+    font-family: 'Raleway',sans-serif;
+    font-weight:400;
+}
+
+
 
 #red-bg {
     background-color: #d93c35;
@@ -70,6 +83,8 @@ html {
 }
 
 h1 {
+    font-family:'Raleway', sans-serif;
+    font-weight: 600;
     font-size:2rem;
     padding: 5px 0;
     margin: 0;
@@ -147,8 +162,14 @@ header {
 /* ............................................COLOUR PAGES STYLE */
 
 div .card-header {
+    font-family:'Raleway', sans-serif;
+    font-weight:600;
     margin:0;
     padding:0;
+}
+
+.accordion p {
+    font-famiy:'Raleway',sans-serif;
 }
 
 #white-card-body {
@@ -203,6 +224,10 @@ div .card-header {
 }
 
 /* ............................................FOOTER STYLES */
+
+footer {
+    font-family: 'Raleway', sans-serif;
+}
 
 h6 {
     font-weight:400;
