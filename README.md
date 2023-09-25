@@ -24,13 +24,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 ## Planning and Development
 
-- **Business Strategy**
-
-- **Target Audience**
-
 - **Targeting Key Demographics**
 
-- **Target Audiences Summary**
+- **Target Audiences**
 
   - Users who are looking for information about the meaning of colours.
   - Designers who want insight into why certain colours are chosen for specific jobs in design. e.g. Warning signs / Product packaging / Interior-design / Fashion.
@@ -96,13 +92,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Testing During Development**
 
-- **Testing the Home page**
-
-- **Testing the Media page**
-
-- **Testing the About page**
-
-- **Testing the Contact page**
+  - I used a Chrome extension to check my site for spelling errors. [Webpage Spell-Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related)
 
 - **Validator Testing**
 
@@ -117,7 +107,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 # Languages
 
 - The coding languages used to create this site were HTML and CSS.
-- In conjunction with Bootstrap 4.
+- In conjunction with Bootstrap 4.5
 
 # Software
 
