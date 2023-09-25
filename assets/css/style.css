@@ -103,7 +103,8 @@ header {
 .nav-item a i {
     display:block;
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.8rem;
+    padding:.5rem .5rem;
 }
 
 .navbar-nav {
@@ -246,10 +247,6 @@ ul ul {
     font-size: 1.2rem;
     line-height: 1.2;
     font-weight: 200;
-}
-
-.social-icon {
-    font-size: 150%;
 }
 
 /* MEDIA QUERIES */
