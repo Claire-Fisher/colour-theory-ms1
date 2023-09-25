@@ -24,8 +24,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 ## Planning and Development
 
-- **Targeting Key Demographics**
-
 - **Target Audiences**
 
   - Users who are looking for information about the meaning of colours.
@@ -45,6 +43,17 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - As a colourblind user, I want to learn more about colours I see differently to others.
 
 - **Site Objectives**
+
+  - To deliver fast introductory information on colour theory to the user.
+  - To make the purpose of the site obvious to the user.
+  - To provide a positive user experience.
+  - To create an intuitive UI that provides good site flow.
+  - To build a family-friendly site that is appropriate for young users.
+  - To build a site that is responsive on a large variety of screen sizes and mobile devices.
+  - To create a fast, easy-to-navigate teaching tool for teachers to show their students.
+  - To guide the user onto additional resources for learning about colour theory.
+  - To deliver a site about colour that is accessible to colour-blind users.
+  - To create a site that is reasonably navigable by screen-readers.
 
 - **Approach**
 
