@@ -226,8 +226,9 @@ div .card-header {
 
 /* FOOTER STYLES */
 
-h6 {
+h2 {
     font-weight:400;
+    font-size: 1.2rem;
 }
 
 .footer-title {
