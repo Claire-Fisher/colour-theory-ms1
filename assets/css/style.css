@@ -173,8 +173,9 @@ div .card-header {
     padding:0;
 }
 
-#white-card-body {
+#off-white {
     background-color: #eee;
+    color:#000;
 }
 
 .psyc-list {
