@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;600;700&display=swap');
 
-
-/* ............................................PROJECT COLOR PALETTE */
+/* PROJECT COLOR PALETTE */
 
 html {
     background-color:#000;
@@ -82,8 +81,7 @@ h1 {
     margin: 0;
 }
 
-/* ...........................................................NAVBAR STYLES */
-
+/* NAVBAR STYLES */
 
 .logo {
     background: url("../images/colour-theory-logo-grey.png") no-repeat center center;
@@ -114,7 +112,6 @@ header {
     letter-spacing:3px;
     right:10px;
     bottom:3px;
-
 }
 
 .dropdown-menu {
@@ -133,7 +130,7 @@ header {
     text-decoration: underline 1pt;
 }
 
- /* ............................................IMG GALLERY STYLES */
+ /* IMG GALLERY STYLES */
 
 .scroll-container {
     display: flex;
@@ -153,7 +150,7 @@ header {
  }
 
 
-/* ............................................COLOUR SPLAT GRID STYLES */
+/* COLOUR SPLAT GRID STYLES */
 
 .img-fluid {
     max-height: 200px;
@@ -167,7 +164,7 @@ header {
     margin: 0 10rem;
 }
 
-/* ............................................COLOUR PAGES STYLE */
+/* COLOUR PAGES STYLE */
 
 div .card-header {
     font-weight:600;
@@ -191,7 +188,6 @@ div .card-header {
     text-transform: capitalize;
     text-align: center;
     margin: 0;
-
 }
 
 .list-title {
@@ -211,7 +207,7 @@ div .card-header {
     margin: 0;
 }
 
-/* ............................................SCIENCE + MEDIA PAGE STYLES */
+/* SCIENCE + MEDIA PAGE STYLES */
 
 .media-borders {
     border:10px solid #ccc;
@@ -227,7 +223,7 @@ div .card-header {
     text-align:left;
 }
 
-/* ............................................FOOTER STYLES */
+/* FOOTER STYLES */
 
 h6 {
     font-weight:400;
@@ -254,8 +250,7 @@ ul ul {
     font-size: 150%;
 }
 
-/* ............................................MEDIA QUERIES */
-
+/* MEDIA QUERIES */
 
 @media screen and (max-width:768px) {
     .navbar-nav {
@@ -280,7 +275,6 @@ ul ul {
     .psyc-list {
         padding:0 15px;
     }
-
  }
 
 
