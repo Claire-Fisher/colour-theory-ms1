@@ -88,7 +88,7 @@ h1 {
     background-size: contain;
     min-height:150px;
     max-width:50%;
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 header {
@@ -111,7 +111,7 @@ header {
     position:absolute;
     font-size:1.2rem;
     letter-spacing:3px;
-    right:10px;
+    right:0.63rem;
     bottom:3px;
 }
 
@@ -124,7 +124,7 @@ header {
 }
 
 .navbar-toggler-icon {
-    font-size:45px;
+    font-size:2.8rem;
     display:contents;
 }
 
@@ -150,7 +150,6 @@ header {
     max-height:200px;
     object-fit: contain;
  }
-
 
 /* COLOUR SPLAT GRID STYLES */
 
@@ -183,7 +182,7 @@ div .card-header {
     font-weight:700;
     text-align: center;
     margin:0;
-    padding:0 50px;
+    padding:0 3.1rem;
 }
 
 .design-list {
@@ -212,7 +211,7 @@ div .card-header {
 /* SCIENCE + MEDIA PAGE STYLES */
 
 .media-borders {
-    border:10px solid #ccc;
+    border:0.63rem solid #ccc;
     max-width: 500px;
 }
 
