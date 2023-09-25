@@ -57,6 +57,12 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Approach**
 
+  - The information will be provided to the user logically and informed by planning research.
+  - The site will be created following the principles of user experience design.
+  - The site will provide embedded content and link to direct them to additional learning.
+  - The content of the site will be inoffensive and accessible to all.
+  - The site will be easy to navigate, intuitive and consistent in design.
+
 - **Wireframes**
 
 - **Color Scheme**
