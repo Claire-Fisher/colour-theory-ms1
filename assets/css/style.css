@@ -250,7 +250,7 @@ ul ul {
 
 /* MEDIA QUERIES */
 
-@media screen and (min-width:451px) and(max-width:768px) {
+@media screen and (min-width:451px) and (max-width:768px) {
     .navbar-nav {
         position:unset;
     }
