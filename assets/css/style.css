@@ -124,6 +124,7 @@ header {
 
 .navbar-toggler-icon {
     font-size:45px;
+    display:contents;
 }
 
 .active {
