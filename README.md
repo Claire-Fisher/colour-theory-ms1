@@ -67,6 +67,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Color Scheme**
 
+  - Building a site on Colour Theory demands a complicated colour palette of the featured spectrum of 9 colours: Red, Orange, Yellow, Green, Blue, Purple, Brown, Black, and White.
+  - Consequently, a neutral background palette of Black, White and 2 tones of grey were chosen to offset the vibrant featured colours.
+
 - **Typography**
 
 # Features
