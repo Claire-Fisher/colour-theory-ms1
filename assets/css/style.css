@@ -250,7 +250,7 @@ ul ul {
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width:768px) {
+@media screen and (min-width:451px) and(max-width:768px) {
     .navbar-nav {
         position:unset;
     }
@@ -274,5 +274,40 @@ ul ul {
         padding:0 15px;
     }
  }
+
+@media screen and (max-width:450px) {
+    .navbar-nav {
+        position: unset;
+    }
+    .nav-item a i {
+        display: inline-block;
+        padding-right: 0.7rem;
+    }
+    .mantis-position {
+        text-align: center;
+    }
+    .mantis-text {
+        text-align: center;
+    }
+    body,
+    h1,
+    h2,
+    .footer-link {
+        font-size:.9rem;
+    }
+    .footer-title {
+        font-size: .9rem;
+        padding-left:.9rem;
+    }
+    .psyc-list {
+        margin:0;
+        padding:0 .9rem;
+        font-size:.8rem;
+    }
+    .card-header h2 button {
+        font-size:0.8rem;
+        letter-spacing:1.5px;
+    }
+}
 
 
