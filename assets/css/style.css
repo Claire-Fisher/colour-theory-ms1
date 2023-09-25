@@ -271,7 +271,7 @@ ul ul {
     }
     .nav-item a i {
         display:inline-block;
-        font-size: 1rem;
+        padding-right:0.7rem;
     }
     .psyc-list {
         padding:0 15px;
