@@ -164,10 +164,16 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Other Bug Fixes**
 
-  - Testing feedback from Tom Harris: on Safari browser, footer clipping on left edge on small screen sizes.
+  - Testing feedback from Tom Harris: on Safari browser - footer clipping on left edge on small screen sizes.
     - Fix: Increased footer padding-left in media query (max-wdith:450px).
 
 - **Unfixed Bugs**
+
+  - Site wide 'colour'-bg IDs should be changed to classes instead. All IDs throughtout site would then need changing. Some conflicts created in styling when a bootstrap imported sections are used and already have their own ID attributes.
+
+  - Some positioning issues and text-background showing on colour-splats on home-page on small screen sizes.
+
+  - Unwanted underline effect showing on header navigation icons. (Desktop screen sizes only).
 
 # Deployment
 
