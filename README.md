@@ -191,7 +191,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Unfixed Bugs**
 
-  - Site wide 'colour'-bg IDs should be changed to classes instead. All IDs throughtout site would then need changing. Some conflicts created in styling when a bootstrap imported sections are used and already have their own ID attributes.
+  - Site wide 'colour'-bg IDs should be changed to classes instead. All IDs throughtout site would then need changing. Some conflicts created in styling when a bootstrap imported sections are used and already have their own ID attributes. Duplicate ID's create visibility issues for assistive technologies and therefore reduces the sites accessibility rating.
 
   - Some positioning issues and text-background showing on colour-splats on home-page on small screen sizes.
 
