@@ -131,6 +131,10 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Video Section**
 
+  - All videos are embedded from Youtube. A reliable source but one that will hinder site load times.
+  - All videos have built in play/pause functions and volume controls. Videos can be viewed full screen.
+  - All videos have aria-labelledby elements for screenreader users.
+
 # Future Features
 
 - Gallery images: as an additional feature, it would add interest to have the gallery change on each colour page. The images would change to those predominantly showing the colour in focus. (e.g A gallery depicting mostly red images on the Red profile page etc.)
