@@ -65,10 +65,23 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Wireframes**
 
+  - Procreate was used to document research, sketch out initial ideas, page layouts and wireframes.
+  - This planning and development work was uploaded to Figma. The design page on Figma is a useful tool to layout all my early project documents in one space, and share online with others for additional input. It allowed my mentor to quickly view and understand my project themes and objectives.
+  - Using Figma's wireframes capabilities, I was able to play with initial layouts and plan intuitive flow around my site. This has given me a good understanding of how an MVP might be presented to me by a frontend designer.
+  - I focused on a mobile first development ethos.
+  - Please click the link to view my developement work on Figma: [View here](https://www.figma.com/file/xRmFsJ81DMgX4vdtkmL1bA/Wireframe?type=design&node-id=33%3A362&mode=design&t=yJLFa2QCrx29gmW1-1)
+
 - **Color Scheme**
 
   - Building a site on Colour Theory demands a complicated colour palette of the featured spectrum of 9 colours: Red, Orange, Yellow, Green, Blue, Purple, Brown, Black, and White.
   - Consequently, a neutral background palette of Black, White and 2 tones of grey were chosen to offset the vibrant featured colours.
+  - I have been mindful of colourblind users by ensuring minimum contrast values are achieved across my site for readability. I have also ensured each colour is named with text, to allow colourblind users to easily understand which colour the information they read is referring to. (e.g. Colours text on the home-page "splats" / h1's clearly stating which colour profile page the user is viewing.)
+
+    ![An image of colour development work](/assets/readme-images/colour-palette.jpg)
+
+  - The above image illustrates how I considered good readability contrast on both light and dark backgrounds for each colour I selected.
+  - I realised a lighter text colour was required, not just over Black, but also over Red, Purple, and Brown. I created colour groups in my CSS to automatically give the light colours a dark font, and the dark colours a light font.
+  - Later in my developement process, Chrome dev tools showed amber warnings for text contrast on Red and Purple. To fix this, I moved the Red colour into the dark-font group. For Purple, I switched purple: #9843b4 for a darker purple: #772f8f which met the minimum contrast threshold.
 
 - **Typography**
 
@@ -125,7 +138,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 # Languages
 
 - The coding languages used to create this site were HTML and CSS.
-- In conjunction with Bootstrap 4.5
+- In conjunction with Bootstrap 4.5.3
 
 # Software
 
