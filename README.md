@@ -85,6 +85,11 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Typography**
 
+  - 'Raleway" from Google Fonts was selected throughout as a clear, easily-readable font choice.
+  - LOGO DESIGN: "Impact" (ios font) was used for the word "Colour". A strong, heavy font to grab attention. It was also broad enough to still be legible with a gradient of colours running across it.
+  - LOGO DESIGN: "Baskerville" (ios font) was used for the word "Theory". A more formal sans-serif typography to balance the heaviness of the Impact font, and give indication to the user that the site is intended for informative purposes.
+  - The logo typography choices were rasterized into a png image, and therefore the fonts were not required to be loaded into the site code.
+
 # Features
 
 ## Existing Features
@@ -149,6 +154,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - tingpng.com [Visit site](https://tinypng.com/)
 
 # Credits
+
+- Google Fonts for 'Raleway" typography [View here](https://fonts.google.com/specimen/Raleway)
 
 - Geeksforgeeks helped me with my flexbox grid layout. [View here](https://www.geeksforgeeks.org/how-to-set-space-between-the-flexbox/)
 
