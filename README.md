@@ -40,7 +40,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - As a user, I want to access additional media content.
   - As a user, I want to have a positive emotional experience.
   - As a user, I want to use the site as a teaching tool across multiple devices.
-  - As a colourblind user, I want to learn more about colours I see differently to others.
+  - As a colourblind user, I want to learn more about colours I see differently from others.
 
 - **Site Objectives**
 
@@ -86,41 +86,26 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - **Typography**
 
   - 'Raleway" from Google Fonts was selected throughout as a clear, easily-readable font choice.
-  - LOGO DESIGN: "Impact" (ios font) was used for the word "Colour". A strong, heavy font to grab attention. It was also broad enough to still be legible with a gradient of colours running across it.
-  - LOGO DESIGN: "Baskerville" (ios font) was used for the word "Theory". A more formal sans-serif typography to balance the heaviness of the Impact font, and give indication to the user that the site is intended for informative purposes.
-  - The logo typography choices were rasterized into a png image, and therefore the fonts were not required to be loaded into the site code.
 
 # Features
 
-## Existing Features
+- **Logo**
+
+  - "Impact" (ios font) was used for the word "Colour". A strong, heavy font to grab attention. It was also broad enough to still be legible with a gradient of colours running across it.
+  - "Baskerville" (ios font) was used for the word "Theory". A more formal sans-serif typography to balance the heaviness of the Impact font, and give indication to the user that the site is intended for informative purposes.
+  - The logo typography choices were rasterized into a png image, and therefore the fonts were not required to be loaded into the site code.
+  - Early stages of the logo featured a consistent black background. A design choice was made to remove the black background and generate a transparent png version instead. This allowed the colour change of the header across different pages to be visible under the logo, whilst maintaining site continuity.
+  - This change created readability issues due to changing contrast levels across different colours.
+  - The gradient of the logo was made from the same colours selected site colour palette. So a black stroke outline had to be added to the word colour.
+  - The white colour of "Theory" created poor contrast on the light backgrounds and disappeared entirely on the White page. The font colour of "Theory" was changed to a mid-grey and a dropshadow applied.
 
 - **Navigation Bar**
 
-- **Sticky Navigation Menu**
-
 - **Hero Image**
-
-- **Upcoming Dates**
-
-- **News Section**
-
-- **Mailing List**
-
-- **Fire Image**
 
 - **The Footer**
 
-- **Audio Section**
-
-  - **Video Section**
-
-- **The Gallery**
-
-  - **Upper Biography Section**
-
-  - **Lower Biography Section**
-
-  - **Contact Section**
+- **Video Section**
 
 - **Possible Future Features**
 
