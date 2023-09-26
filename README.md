@@ -89,6 +89,13 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Features
 
+- **General**
+
+  - The site is fully responsive and functional on all screen sizes down to 320px.
+  - The site considers different user's sensory perceptions and reduces screen glare by softening white backgrounds, with black text, to a light grey instead.
+  - The site uses semantic elements to assist screenreader users to navigate and access information.
+  - The site includes text on all colour occurances to indicate to colour blind users which colour the information is referring to.
+
 - **Logo**
 
   - "Impact" (ios font) was used for the word "Colour". A strong, heavy font to grab attention. It was also broad enough to still be legible with a gradient of colours running across it.
@@ -100,6 +107,13 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - The white colour of "Theory" created poor contrast on the light backgrounds and disappeared entirely on the White page. The font colour of "Theory" was changed to a mid-grey and a dropshadow applied.
 
 - **Navigation Bar**
+
+  - The navigation bar features on all pages and is fully responsive.
+  - The navigation maintains it's structure across all pages for site continuity and for an intuitive, positive user experience.
+  - The logo is a hyperlink that will return the user back to the Home page from anywhere on the site. This link is indicated to the user with a hover animation.
+  - All navigation elements have hover animations to indicate they are clickable, and an underline text decoration to indicate the user's current location.
+  - The navigation bar background colour changes across all colour profile pages to indicate to the user their current location within the site.
+  - Information can be accessed quickly and intuitively as the navigation is designed so that any page can be viewed from any location within the site and within two clicks. This creates a positive user experience.
 
 - **Hero Image**
 
