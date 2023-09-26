@@ -16,11 +16,11 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 [Languages]
 
-[Software]
-
-[Media]
+[Software](#software)
 
 [Credits](#credits)
+
+[Content](#content)
 
 ## Planning and Development
 
@@ -148,21 +148,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Procreate to create design pages and sketch-work, images and logo.
 - tingpng.com [Visit site](https://tinypng.com/)
 
-# Media
-
-- YouTube videos
-
-  - Flow Studio: Color Theory for Noobs [Visit here](https://www.youtube.com/watch?v=AvgCkHrcj90)
-  - Blender Guru: Understanding Color [Visit here](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
-  - GCFLearnFree: Beginning Graphic Design: Color [Visit here](https://www.youtube.com/watch?v=_2LLXnUdUIc)
-  - Satori Graphics: ADVANCED Colour Theory Makes Designs SUPERIOR! [Visit here](https://www.youtube.com/watch?v=XNkV6m4fosw)
-
-- TedTalks
-  - ["I Listen To Color": Neil Harbisson](https://www.ted.com/talks/neil_harbisson_i_listen_to_color?language=en)
-  - ["What is color?": Colm Kelleher](https://www.ted.com/talks/colm_kelleher_what_is_color)
-  - ["How we see color": Colm Kelleher](https://www.ted.com/talks/colm_kelleher_how_we_see_color)
-  - ["What color is Tuesday? Exploring synesthesia": Richard Cytowic](https://www.ted.com/talks/richard_e_cytowic_what_color_is_tuesday_exploring_synesthesia)
-
 # Credits
 
 - Geeksforgeeks helped me with my flexbox grid layout. [View here](https://www.geeksforgeeks.org/how-to-set-space-between-the-flexbox/)
@@ -194,6 +179,19 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - [Adobe.com](https://www.adobe.com/creativecloud/design/hub/guides/meaning-of-green-in-design.html#:~:text=Associated%20with%20nature%20and%20positivity,as%20your%20design's%20primary%20color.)
 - [trvst](https://www.trvst.world/mind-body/green-color-quotes/#:~:text=%22Green%20is%20the%20prime%20color,from%20which%20its%20loveliness%20arises.%22&text=%22Being%20green%20and%20clean%20is,an%20aspiration%20but%20an%20action.%22&text=%22When%20you're%20green%2C,re%20ripe%2C%20you%20rot.%22)
 - [phrases.com](https://www.phrases.com/psearch/)
+
+- YouTube videos
+
+  - Flow Studio: Color Theory for Noobs [Visit here](https://www.youtube.com/watch?v=AvgCkHrcj90)
+  - Blender Guru: Understanding Color [Visit here](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
+  - GCFLearnFree: Beginning Graphic Design: Color [Visit here](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+  - Satori Graphics: ADVANCED Colour Theory Makes Designs SUPERIOR! [Visit here](https://www.youtube.com/watch?v=XNkV6m4fosw)
+
+- TedTalks
+  - ["I Listen To Color": Neil Harbisson](https://www.ted.com/talks/neil_harbisson_i_listen_to_color?language=en)
+  - ["What is color?": Colm Kelleher](https://www.ted.com/talks/colm_kelleher_what_is_color)
+  - ["How we see color": Colm Kelleher](https://www.ted.com/talks/colm_kelleher_how_we_see_color)
+  - ["What color is Tuesday? Exploring synesthesia": Richard Cytowic](https://www.ted.com/talks/richard_e_cytowic_what_color_is_tuesday_exploring_synesthesia)
 
 ## **Thanks**
 
