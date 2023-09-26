@@ -14,9 +14,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 [Testing](#testing)
 
-[Deployment]
+[Deployment](#deployment)
 
-[Languages]
+[Languages](#languages)
 
 [Software](#software)
 
@@ -140,7 +140,17 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Future Features
 
-- Gallery images: as an additional feature, it would add interest to have the gallery change on each colour page. The images would change to those predominantly showing the colour in focus. (e.g A gallery depicting mostly red images on the Red profile page etc.)
+- **Gallery images:** as an additional feature, it would add interest to have the gallery change on each colour page. The images would change to those predominantly showing the colour in focus. (e.g A gallery depicting mostly red images on the Red profile page etc.)
+
+- **Contact Page:** Invitation to site users to offer additional colour information to the developer. Particularly further cultural insights.
+
+- **Contact for accessibility suggestions:** a note from developers to users stating accessibility is important to me and I'm always looking to improve my site. Invite users to offer accessibility improvements, or report accessibility issues they may experience while using my site.
+
+- **Additional Colours:** Expand on the number of colours explored. Pink, Teal, Grey, Cream etc...
+
+- **Science** Explore further about how we see colour. Inform about colours on the spectrum which are invisible to humans (Ultraviolet, infrared). Expand on different levels of colour blindness. Show examples of how the world looks to people who see colour differently. How do other species see colour? (E.g. Dogs struggle with green and red, but see yellow and blue clearly. Dog toys are commonly blue and yellow for this reason.)
+
+- **Animations** Include more animated, interactive features across the site to engage the user more and appeal better to younger users. A more positive user experience increases how long a user explores your site, increases return visits and recommendations to other users.
 
 # Testing
 
