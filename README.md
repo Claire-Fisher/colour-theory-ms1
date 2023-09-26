@@ -8,7 +8,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 [Planning & Development](#Planning-and-Development)
 
-[Features]
+[Features](#features)
+
+[Future Features](#future-features)
 
 [Testing]
 
@@ -117,13 +119,17 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Hero Image**
 
+  - Instead of a classic Hero image, a gallery of multicoloured images sit aligned in a bar below the navigation header. See more information on images in the section: [Possible Future Features](#Future-features)
+
 - **The Footer**
 
 - **Video Section**
 
-- **Possible Future Features**
+# Future Features
 
-  # Testing
+- Gallery images: as an additional feature, it would add interest to have the gallery change on each colour page. The images would change to those predominantly showing the colour in focus. (e.g A gallery depicting mostly red images on the Red profile page etc.)
+
+# Testing
 
 - **Testing During Development**
 
