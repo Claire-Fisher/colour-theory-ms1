@@ -144,6 +144,18 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Testing During Development**
 
+  - During the development process, I was manually testing in the following ways:-
+
+    1. Manually testing each element for appearance and responsiveness via a simulated live server using an extension in VSCode.
+    2. Published the page via GitHub pages and shared with fellow developers and other users to get feedback.
+
+  - I tested my site on different browsers to ensure cross-compatibility. I asked other users to test browsers I don't have access to (Safari - Testers credited in thanks section). Browsers used for testing include:
+
+    - Chrome
+    - Edge
+    - Firefox
+    - Safari
+
   - I used a Chrome extension to check my site for spelling errors. [Webpage Spell-Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related)
 
 - **Validator Testing**
@@ -151,6 +163,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - **Performance Testing**
 
 - **Other Bug Fixes**
+
+  - Testing feedback from Tom Harris: on Safari browser, footer clipping on left edge on small screen sizes.
+    - Fix: Increased footer padding-left in media query (max-wdith:450px).
 
 - **Unfixed Bugs**
 
@@ -231,6 +246,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - David Calikes: for his excellent README file which I've used as a template. [View here](https://github.com/davidcalikes/portfolio-project-one/blob/main/README.md?plain=1)
 
-- Tom Harris: my excellent research buddy and my biggest cheerleader.
+- Tom Harris: Site tester, my excellent research buddy and my biggest cheerleader.
 
-- Shaun Russell: my partner, my UI/UX personal mentor, and my provider while I study. Building my new development career change would have been infinitely harder without you. Thank you.
+- Shaun Russell: Site tester, my partner, my UI/UX personal mentor, and my provider while I study. Building my new development career change would have been infinitely harder without you. Thank you.
