@@ -158,6 +158,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
     - Firefox
     - Safari
 
+  - I used the Chrome developer tools to simulate different screen sizes/devices from 320 px up to 1700px in width.
+
   - I used a Chrome extension to check my site for spelling errors. [Webpage Spell-Check](https://chrome.google.com/webstore/detail/webpage-spell-check/mgdhaoimpabdhmacaclbbjddhngchjik/related)
 
 - **Validator Testing**
@@ -166,7 +168,21 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Other Bug Fixes**
 
-  1.Testing feedback from Tom Harris :-
+  **1. Header :-**
+
+  - Multiple issues Found:
+    - The Header ended up being designed three times. Positional issues and unwanted responsive behaviours.
+  - Solution:
+    - Used a premade header from Bootstrap and styled it to fit my site themes.
+
+  **2. Header continued :-**
+
+  - Issue:
+    - After changing the position of my navigation elements to the right side of the screen: The burger menu was traped inside header container and dropping up instead of down.
+  - Solution:
+    - Used a media query to position:unset which returned the navigation back to it's default bootstrap behaviours on smaller screens. Then used z-index:3 to ensure the dropdown menu stayed ontop of other content.
+
+  **3. Testing feedback from Tom Harris :-**
 
   - Issue Found:
     - Safari browser - footer clipping on left edge on small screen sizes.
