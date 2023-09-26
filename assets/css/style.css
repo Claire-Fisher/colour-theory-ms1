@@ -265,14 +265,14 @@ ul ul {
         font-size:1.5rem;
     }
     .footer-title {
-        padding-left:20px;
+        padding-left:1.35rem;
     }
     .nav-item a i {
         display:inline-block;
         padding-right:0.7rem;
     }
     .psyc-list {
-        padding:0 15px;
+        padding:0 .9rem;
     }
  }
 
@@ -298,7 +298,7 @@ ul ul {
     }
     .footer-title {
         font-size: .9rem;
-        padding-left:.9rem;
+        padding-left:1.15rem;
     }
     .psyc-list {
         margin:0;
