@@ -12,7 +12,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 [Future Features](#future-features)
 
-[Testing]
+[Testing](#testing)
 
 [Deployment]
 
@@ -165,6 +165,14 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - **Validator Testing**
 
 - **Performance Testing**
+
+  - Performance was tested using Chrome Developer tools.
+  - **Desktop Performance**
+    ![A screenshot showing the site's Desktop Lighthouse analysis.](/assets/readme-images/colour-theory-desktop-lighthouse.png)
+
+  - **Mobile Performance**
+    ![A screenshot showing the site's Mobile Lighthouse analysis.](/assets/readme-images/colour-theory-mobile-lighthouse.png)
+  - Performance on Mobile could be improved with further image compression and resizing of image aspect ratios.
 
 - **Other Bug Fixes**
 
