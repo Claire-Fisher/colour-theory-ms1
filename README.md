@@ -123,6 +123,12 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **The Footer**
 
+  - The footer includes copyright name and date.
+  - The footer bar features links to site creation tools, and Research content links.
+  - The footer has links to social media sites.
+  - All links in the footer open in a new browser window.
+  - All links include aria-labels for screenreader users.
+
 - **Video Section**
 
 # Future Features
