@@ -207,6 +207,12 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Deployment
 
+- You can deploy this site on GitHub by following these steps :-
+  1. From the project's [repository](https://github.com/Claire-Fisher/colour-theory-ms1), go to the green 'Code' button.
+  2. On the local tab, select Download zip.
+  3. Find the zipped folder in your local Downloads folder, right click and select 'Extract All..".
+  4. In the extracted 'colour-theory-ms1' folder, find the index file. Right click index and select "Open with Google Chrome" (or your prefered browser).
+
 # Languages
 
 - The coding languages used to create this site were HTML and CSS.
