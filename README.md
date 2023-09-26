@@ -73,6 +73,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - I focused on a mobile first development ethos.
   - Please click the link to view my developement work on Figma: [View here](https://www.figma.com/file/xRmFsJ81DMgX4vdtkmL1bA/Wireframe?type=design&node-id=33%3A362&mode=design&t=yJLFa2QCrx29gmW1-1)
 
+    ![An image of my development work presented on Figma](/assets/readme-images/figma-development-work.png)
+
 - **Color Scheme**
 
   - Building a site on Colour Theory demands a complicated colour palette of the featured spectrum of 9 colours: Red, Orange, Yellow, Green, Blue, Purple, Brown, Black, and White.
@@ -164,7 +166,11 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - **Other Bug Fixes**
 
-  - Testing feedback from Tom Harris: on Safari browser - footer clipping on left edge on small screen sizes.
+  1.Testing feedback from Tom Harris :-
+
+  - Issue Found:
+    - Safari browser - footer clipping on left edge on small screen sizes.
+  - Solution:
     - Fix: Increased footer padding-left in media query (max-wdith:450px).
 
 - **Unfixed Bugs**
