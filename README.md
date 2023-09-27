@@ -73,7 +73,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - I focused on a mobile first development ethos.
 - Please click the link to view my developement work on Figma: [View here](https://www.figma.com/file/xRmFsJ81DMgX4vdtkmL1bA/Wireframe?type=design&node-id=33%3A362&mode=design&t=yJLFa2QCrx29gmW1-1)
 
-  ![An image of my development work presented on Figma](/assets/readme-images/figma-development-work.png)
+  ![An image of my development work presented on Figma](/documents/figma-development-work.png)
 
 ### Color Scheme
 
@@ -81,7 +81,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Consequently, a neutral background palette of Black, White and 2 tones of grey were chosen to offset the vibrant featured colours.
 - I have been mindful of colourblind users by ensuring minimum contrast values are achieved across my site for readability. I have also ensured each colour is named with text, to allow colourblind users to easily understand which colour the information they read is referring to. (e.g. Colours text on the home-page "splats" / h1's clearly stating which colour profile page the user is viewing.)
 
-  ![An image of colour development work](/assets/readme-images/colour-palette.jpg)
+  ![An image of colour development work](/documents/colour-palette.jpg)
 
 - The above image illustrates how I considered good readability contrast on both light and dark backgrounds for each colour I selected.
 - I realised a lighter text colour was required, not just over Black, but also over Red, Purple, and Brown. I created colour groups in my CSS to automatically give the light colours a dark font, and the dark colours a light font.
@@ -196,10 +196,10 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - Performance was tested using Chrome Developer tools.
 - **Desktop Performance**
-  ![A screenshot showing the site's Desktop Lighthouse analysis.](/assets/readme-images/colour-theory-desktop-lighthouse.png)
+  ![A screenshot showing the site's Desktop Lighthouse analysis.](/documents/colour-theory-desktop-lighthouse.png)
 
 - **Mobile Performance**
-  ![A screenshot showing the site's Mobile Lighthouse analysis.](/assets/readme-images/colour-theory-mobile-lighthouse.png)
+  ![A screenshot showing the site's Mobile Lighthouse analysis.](/documents/colour-theory-mobile-lighthouse.png)
 - Performance on Mobile could be improved with further image compression and resizing of image aspect ratios.
 
 ### Other Bug Fixes
