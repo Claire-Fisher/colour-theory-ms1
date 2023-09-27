@@ -189,8 +189,25 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 **HTML** - [https://validator.w3.org/nu/](https://validator.w3.org/nu/)
 
 - Issues found:
+  - Dozens of "Duplicate ID" Errors. _(See "Duplicate IDs" in **"Other Bug Fixes"** section)._
+- Solution:
 
-  -
+  - Changed all ID colour styling in stylesheet to classes. Changed all colour ID's throughout all HTML pages to classes. _(Accessibility rating on Lighthouse now hits 100 rating after fixing this error.)_
+
+- Issues found:
+  - Duplicate target attributes found.
+- Solution:
+
+  - Unchanged. Target attribute creating errors is target="\_blank" to open external link in new browser. This behavious is intentional.
+
+- Issues found:
+  - "Trailing slash on void elements" errors.
+- Solution:
+  - Unchanged. This error is caused by an "Auto format on save" function of Visual Studio Code.
+
+**CSS** - [jigsaw.w3.org/css-validator/validator#warnings/](https://jigsaw.w3.org/css-validator/validator#warnings)
+
+- ![A screenshot showing "No Errors" result on W3C CSS validator](/documents/w3c-css-validator.png)
 
 ### Performance Testing
 
