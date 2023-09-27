@@ -4,6 +4,8 @@
 
 Designed as a teaching tool, the site will introduce the user to the basics of colour theory and guide them towards additional learning. This project is intended for users from Secondary School education age and above. With younger users increasingly likely to seek information on mobile devices, my site must be fully responsive and will be developed using a mobile first approach.
 
+![An mock-up image of the Colour Theory project](/documents/colourtheorysite-mockup.png)
+
 ## Contents
 
 [Planning & Development](#Planning-and-Development)
