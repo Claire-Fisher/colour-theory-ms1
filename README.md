@@ -204,21 +204,28 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 ### Other Bug Fixes
 
-**1. Header :-**
+**Header :-**
 
 - Multiple issues Found:
   - The Header ended up being designed three times. Positional issues and unwanted responsive behaviours.
 - Solution:
   - Used a premade header from Bootstrap and styled it to fit my site themes.
 
-**2. Header continued :-**
+**Header continued :-**
 
 - Issue:
   - After changing the position of my navigation elements to the right side of the screen: The burger menu was traped inside header container and dropping up instead of down.
 - Solution:
   - Used a media query to position:unset which returned the navigation back to it's default bootstrap behaviours on smaller screens. Then used z-index:3 to ensure the dropdown menu stayed ontop of other content.
 
-**3. Testing feedback from Tom Harris :-**
+**Duplicate IDs :-**
+
+- Issue Found:
+  - [https://validator.w3.org/nu/](https://validator.w3.org/nu/) reported dozens of Duplicate ID Errors. This was because I had used ID's instead of Classes for colour styling throughout my site. Duplicate ID's create visibility issues for assistive technologies and therefore reduces the sites accessibility rating.
+- Solution:
+  - Changed all ID colour styling in stylesheet to classes. Changed all colour ID's throughout all HTML pages to classes.
+
+**Testing feedback from Tom Harris :-**
 
 - Issue Found:
   - Safari browser - footer clipping on left edge on small screen sizes.
@@ -226,8 +233,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - Fix: Increased footer padding-left in media query (max-wdith:450px).
 
 ### Unfixed Bugs
-
-- Site wide 'colour'-bg IDs should be changed to classes instead. All IDs throughtout site would then need changing. Some conflicts created in styling when a bootstrap imported sections are used and already have their own ID attributes. Duplicate ID's create visibility issues for assistive technologies and therefore reduces the sites accessibility rating.
 
 - Some positioning issues and text-background showing on colour-splats on home-page on small screen sizes.
 
