@@ -65,6 +65,28 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - The content of the site will be inoffensive and accessible to all.
 - The site will be easy to navigate, intuitive and consistent in design.
 
+### Research
+
+- The following sites were examined as part of my project research:
+  - [London Image Institute](https://londonimageinstitute.com/how-to-empower-yourself-with-color-psychology/)
+  - [Very Well Mind](https://www.verywellmind.com/color-psychology-2795824#toc-history-of-color-psychology)
+  - [Science of People](https://www.scienceofpeople.com/color-psychology/)
+  - [Color Psychology.org](https://www.colorpsychology.org/)
+  - [Fifteen Design](https://www.fifteendesign.co.uk/blog/how-colour-influences-our-decision-colour-psychology-in-design/)
+  - [Colour-Meanings.com](https://www.color-meanings.com/color-psychology-how-colors-affect-your-everyday-life/)
+- Common themes found:
+  - Responsive design.
+  - Neutral backgrounds to page styling.
+  - Lists of psychological words connected to each colour.
+  - Site logo's top left (user expected location, intuitive design).
+  - Navigation link top (user expected location, intuitive design).
+  - Grey font used on white/light backgrounds. Softer for sensory perception.
+  - Examples cited of how each colour is used in design concepts.
+  - Colour quotes.
+  - Video content exploring colour psychology further.
+- My adjustments to suit my project target audience:
+  - Switched the word "Psychology" for "Theory" to be less intimidating for a younger user (Except for psychology word lists).
+
 ### Wireframes
 
 - Procreate was used to document research, sketch out initial ideas, page layouts and wireframes.
