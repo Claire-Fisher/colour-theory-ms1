@@ -223,7 +223,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Issue Found:
   - [https://validator.w3.org/nu/](https://validator.w3.org/nu/) reported dozens of Duplicate ID Errors. This was because I had used ID's instead of Classes for colour styling throughout my site. Duplicate ID's create visibility issues for assistive technologies and therefore reduces the sites accessibility rating.
 - Solution:
-  - Changed all ID colour styling in stylesheet to classes. Changed all colour ID's throughout all HTML pages to classes.
+  - Changed all ID colour styling in stylesheet to classes. Changed all colour ID's throughout all HTML pages to classes. _(Accessibility rating on Lighthouse now hits 100 rating after fixing this error.)_
 
 **Testing feedback from Tom Harris :-**
 
