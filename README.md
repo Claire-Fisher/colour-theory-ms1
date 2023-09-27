@@ -42,7 +42,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - As a user, I want to access additional media content.
 - As a user, I want to have a positive emotional experience.
 - As a user, I want to use the site as a teaching tool across multiple devices.
-- As a colourblind user, I want to learn more about colours I see differently from others.
+- As a colour blind user, I want to learn more about colours I see differently from others.
 
 ### Site Objectives
 
@@ -93,21 +93,21 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - This planning and development work was uploaded to Figma. The design page on Figma is a useful tool to layout all my early project documents in one space, and share online with others for additional input. It allowed my mentor to quickly view and understand my project themes and objectives.
 - Using Figma's wireframes capabilities, I was able to play with initial layouts and plan intuitive flow around my site. This has given me a good understanding of how an MVP might be presented to me by a frontend designer.
 - I focused on a mobile first development ethos.
-- Please click the link to view my developement work on Figma: [View here](https://www.figma.com/file/xRmFsJ81DMgX4vdtkmL1bA/Wireframe?type=design&node-id=33%3A362&mode=design&t=yJLFa2QCrx29gmW1-1)
+- Please click the link to view my development work on Figma: [View here](https://www.figma.com/file/xRmFsJ81DMgX4vdtkmL1bA/Wireframe?type=design&node-id=33%3A362&mode=design&t=yJLFa2QCrx29gmW1-1)
 
   ![An image of my development work presented on Figma](/documents/figma-development-work.png)
 
-### Color Scheme
+### Colour Scheme
 
 - Building a site on Colour Theory demands a complicated colour palette of the featured spectrum of 9 colours: Red, Orange, Yellow, Green, Blue, Purple, Brown, Black, and White.
 - Consequently, a neutral background palette of Black, White and 2 tones of grey were chosen to offset the vibrant featured colours.
-- I have been mindful of colourblind users by ensuring minimum contrast values are achieved across my site for readability. I have also ensured each colour is named with text, to allow colourblind users to easily understand which colour the information they read is referring to. (e.g. Colours text on the home-page "splats" / h1's clearly stating which colour profile page the user is viewing.)
+- I have been mindful of colour blind users by ensuring minimum contrast values are achieved across my site for readability. I have also ensured each colour is named with text, to allow colour blind users to easily understand which colour the information they read is referring to. (e.g. Colours text on the home-page "splats" / h1's clearly stating which colour profile page the user is viewing.)
 
   ![An image of colour development work](/documents/colour-palette.jpg)
 
 - The above image illustrates how I considered good readability contrast on both light and dark backgrounds for each colour I selected.
 - I realised a lighter text colour was required, not just over Black, but also over Red, Purple, and Brown. I created colour groups in my CSS to automatically give the light colours a dark font, and the dark colours a light font.
-- Later in my developement process, Chrome dev tools showed amber warnings for text contrast on Red and Purple. To fix this, I moved the Red colour into the dark-font group. For Purple, I switched purple: #9843b4 for a darker purple: #772f8f which met the minimum contrast threshold.
+- Later in my development process, Chrome dev tools showed amber warnings for text contrast on Red and Purple. To fix this, I moved the Red colour into the dark-font group. For Purple, I switched purple: #9843b4 for a darker purple: #772f8f which met the minimum contrast threshold.
 
 ### Typography
 
@@ -119,8 +119,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 - The site is fully responsive and functional on all screen sizes down to 320px.
 - The site considers different user's sensory perceptions and reduces screen glare by softening white backgrounds, with black text, to a light grey instead.
-- The site uses semantic elements to assist screenreader users to navigate and access information.
-- The site includes text on all colour occurances to indicate to colour blind users which colour the information is referring to.
+- The site uses semantic elements to assist screen reader users to navigate and access information.
+- The site includes text on all colour occurrances to indicate to colour blind users which colour the information is referring to.
 
 ### Logo
 
@@ -129,13 +129,13 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - The logo typography choices were rasterized into a png image, and therefore the fonts were not required to be loaded into the site code.
 - Early stages of the logo featured a consistent black background. A design choice was made to remove the black background and generate a transparent png version instead. This allowed the colour change of the header across different pages to be visible under the logo, whilst maintaining site continuity.
 - This change created readability issues due to changing contrast levels across different colours.
-- The gradient of the logo was made from the same colours selected site colour palette. So a black stroke outline had to be added to the word colour.
-- The white colour of "Theory" created poor contrast on the light backgrounds and disappeared entirely on the White page. The font colour of "Theory" was changed to a mid-grey and a dropshadow applied.
+- The gradient of the logo was made from the same colours selected for the site colour palette. So a black stroke outline had to be added to the word colour.
+- The white colour of "Theory" created poor contrast on the light backgrounds and disappeared entirely on the White page. The font colour of "Theory" was changed to a mid-grey and a drop shadow applied.
 
 ### Navigation Bar
 
 - The navigation bar features on all pages and is fully responsive.
-- The navigation maintains it's structure across all pages for site continuity and for an intuitive, positive user experience.
+- The navigation maintains its structure across all pages for site continuity and for an intuitive, positive user experience.
 - The logo is a hyperlink that will return the user back to the Home page from anywhere on the site. This link is indicated to the user with a hover animation.
 - All navigation elements have hover animations to indicate they are clickable, and an underline text decoration to indicate the user's current location.
 - The navigation bar background colour changes across all colour profile pages to indicate to the user their current location within the site.
@@ -180,7 +180,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 ### Science:
 
-- Explore further about how we see colour. Inform about colours on the spectrum which are invisible to humans (Ultraviolet, infrared). Expand on different levels of colour blindness. Show examples of how the world looks to people who see colour differently. How do other species see colour? (E.g. Dogs struggle with green and red, but see yellow and blue clearly. Dog toys are commonly blue and yellow for this reason.)
+- Explore further about how we see colour. Inform about colours on the spectrum which are invisible to humans (Ultraviolet, infrared). Expand on different levels of colour blindness. Show examples of how the world looks to people who see colours differently. How do other species see colour? (E.g. Dogs struggle with green and red, but see yellow and blue clearly. Dog toys are commonly blue and yellow for this reason.)
 
 ### Animations:
 
@@ -220,7 +220,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - Duplicate target attributes found.
 - Solution:
 
-  - Unchanged. Target attribute creating errors is target="\_blank" to open external link in new browser. This behavious is intentional.
+  - Unchanged. Target attribute creating errors is target="\_blank" to open an external link in a new browser window. This behaviour is intentional.
 
 - Issues found:
   - "Trailing slash on void elements" errors.
@@ -253,9 +253,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 **Header continued :-**
 
 - Issue:
-  - After changing the position of my navigation elements to the right side of the screen: The burger menu was traped inside header container and dropping up instead of down.
+  - After changing the position of my navigation elements to the right side of the screen: The burger menu was trapped inside header container and dropping up instead of down.
 - Solution:
-  - Used a media query to position:unset which returned the navigation back to it's default bootstrap behaviours on smaller screens. Then used z-index:3 to ensure the dropdown menu stayed ontop of other content.
+  - Used a media query to position:unset which returned the navigation back to it's default bootstrap behaviours on smaller screens. Then used z-index:3 to ensure the dropdown menu stays on top of other content.
 
 **Duplicate IDs :-**
 
@@ -269,7 +269,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Issue Found:
   - Safari browser - footer clipping on left edge on small screen sizes.
 - Solution:
-  - Fix: Increased footer padding-left in media query (max-wdith:450px).
+  - Fix: Increased footer padding-left in media query (max-width:450px).
 
 ### Unfixed Bugs
 
@@ -283,7 +283,7 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   1. From the project's [repository](https://github.com/Claire-Fisher/colour-theory-ms1), go to the green 'Code' button.
   2. On the local tab, select Download zip.
   3. Find the zipped folder in your local Downloads folder, right click and select 'Extract All..".
-  4. In the extracted 'colour-theory-ms1' folder, find the index file. Right click index and select "Open with Google Chrome" (or your prefered browser).
+  4. In the extracted 'colour-theory-ms1' folder, find the index file. Right click index and select "Open with Google Chrome" (or your preferred browser).
 
 # Languages
 
