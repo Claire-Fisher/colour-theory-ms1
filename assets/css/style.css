@@ -11,54 +11,64 @@ body {
     font-weight:400;
 }
 
-#red-bg {
+.red-bg {
     background-color: #d93c35;
 }
 
-#orange-bg {
+.orange-bg {
     background-color: #e99740;
 }
 
-#yellow-bg {
+.yellow-bg {
     background-color: #f6ef55;
 }
 
-#green-bg {
+.green-bg {
     background-color: #60b456;
 }
 
-#blue-bg {
+.blue-bg {
     background-color: #55a7dd;
 }
 
-#purple-bg {
+.purple-bg {
     background-color: #772f8f;
 }
 
-#brown-bg {
+.brown-bg {
     background-color: #5a3c1d;
 }
 
-#black-bg {
+.black-bg {
     background-color: #000;
 }
 
-#white-bg {
+.white-bg {
     background-color: #fff;
 }
 
-#mid-grey-bg {
+.off-white {
+    background-color: #eee;
+    color: #000;
+}
+
+.mid-grey-bg {
     background-color: #ccc;
 }
 
-#black-bg,
-#brown-bg,
-#purple-bg {
-    color: #ccc;
+.black-bg,
+.brown-bg,
+.purple-bg {
+    color: #ccc!important;
 }
 
-#red-bg, #orange-bg, #yellow-bg, #green-bg, #blue-bg, #white-bg {
-    color:#000;
+.red-bg,
+.orange-bg,
+.yellow-bg,
+.green-bg,
+.blue-bg,
+.white-bg {
+    color: #000!important;
 }
 
 .uppercase {
@@ -171,11 +181,6 @@ div .card-header {
     font-weight:600;
     margin:0;
     padding:0;
-}
-
-#off-white {
-    background-color: #eee;
-    color:#000;
 }
 
 .psyc-list {
