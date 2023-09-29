@@ -22,6 +22,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 [Software](#software)
 
+[Code](#code)
+
 [Credits](#credits)
 
 [Content](#content)
@@ -305,6 +307,18 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Figma to create design-boards, wireframes and prototypes.
 - Procreate to create design pages and sketch-work, images and logo.
 - tingpng.com [Visit site](https://tinypng.com/)
+
+# Code
+
+- Template code for responsive navbar header taken from [Bootstrap 4.5 Library.](https://getbootstrap.com/docs/4.5/components/navbar/) Heavily modified to suit my sites needs.
+
+  ![An image of the bootstrap responsive navbar code used](/documents/bootstrap-navbar.png)
+
+- Template code for accordion cards taken from [Bootstrap 4.5 Library.](https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example) Heavily modified to suit my sites needs.
+
+  ![An image of the bootstrap accordion code used](/documents/bootstrap-accordion.png)
+
+- Hover animation library, created by Ian Lunn, used for animations throughout my site to indicate clickable elements. Hover effects used: hvr-bounce-in, hvr-icon-bob, hvr-bounce-out. [View Ian Lunn's hover library here](http://ianlunn.github.io/Hover/)
 
 # Credits
 
