@@ -266,6 +266,14 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Solution:
   - Changed all ID colour styling in stylesheet to classes. Changed all colour ID's throughout all HTML pages to classes. _(Accessibility rating on Lighthouse now hits 100 rating after fixing this error.)_
 
+**Colour splat text backgrounds :-**
+
+- Issue Found:
+  - Home page. On screen sizes <576px, colour-splats-text-background growning larger than splats. Also, some small colour differences bewtween text background, and the splat colour beneath, creating unwanted "bars" on all screens.
+- Solution:
+  - Targeted the splat group anchors and cleared the background-color.
+  - ![An image of bug solution](/documents/color-splat-test-bug-fix.png)
+
 **Testing feedback from Tom Harris :-**
 
 - Issue Found:
@@ -274,8 +282,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
   - Fix: Increased footer padding-left in media query (max-width:450px).
 
 ### Unfixed Bugs
-
-- Some positioning issues and text-background showing on colour-splats on home-page on small screen sizes.
 
 - Unwanted underline effect showing on header navigation icons. (Desktop screen sizes only).
 
