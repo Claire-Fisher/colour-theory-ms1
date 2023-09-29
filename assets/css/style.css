@@ -179,6 +179,10 @@ header {
     margin:0 8rem;
 }
 
+#colour-grid-menu a {
+    background-color: transparent;
+}
+
 /* COLOUR PAGES STYLE */
 
 div .card-header {
