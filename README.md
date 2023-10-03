@@ -6,6 +6,8 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 ![An mock-up image of the Colour Theory project](/documents/colourtheorysite-mockup.png)
 
+- [Click here to deploy this project live](https://claire-fisher.github.io/colour-theory-ms1/)
+
 ## Contents
 
 [Planning & Development](#Planning-and-Development)
@@ -289,7 +291,9 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Deployment
 
-- You can deploy this site on GitHub by following these steps :-
+- [Click here to deploy this project live](https://claire-fisher.github.io/colour-theory-ms1/)
+
+- Or you can deploy this site on GitHub by following these steps :-
   1. From the project's [repository](https://github.com/Claire-Fisher/colour-theory-ms1), go to the green 'Code' button.
   2. On the local tab, select Download zip.
   3. Find the zipped folder in your local Downloads folder, right click and select 'Extract All..".
