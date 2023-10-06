@@ -168,6 +168,16 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 
 # Future Features
 
+### Sticky Header:
+
+- A sticky header would improve navigation for the user, especially on scrolling mobile devices. At present the dropdown navigation menu is too long. With a fixed-top added to the responsive navbar the bottom two menu items on the dropdown cannot be selected.
+
+- Attempts were made, using the bootstrap class:fixed-top, targeting only the main header and allowing the dropdown menu to remain scrollable. So far, I haven’t managed to accomplish this.
+
+- I also experimented with media queries to reduce the dropdown menu size/margins/padding etc. However this reduced the size of the elements to a point where operating via touch screen would be fiddly and frustrating to the user. This moves away from the positive user experience objective. At present, site navigation works satisfactorily.
+
+- In future, I would like to develop a sticky navbar header that improves navigation, without diminishing UX.
+
 ### Gallery images:
 
 - For an additional feature, it would add interest to have the gallery change on each colour page. The images would change to those predominantly showing the colour in focus. (e.g A gallery depicting mostly red images on the Red profile page etc.)
