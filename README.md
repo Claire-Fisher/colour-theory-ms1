@@ -248,8 +248,6 @@ Designed as a teaching tool, the site will introduce the user to the basics of c
 - Solution:
   - Unchanged. This error is caused by an "Auto format on save" function of Visual Studio Code.
 
-<br>
-
 **CSS** - [click here for the full report](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fclaire-fisher.github.io%2Fcolour-theory-ms1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ![A screenshot showing "No Errors" result on W3C CSS validator](/documents/w3c-css-validator.png)
