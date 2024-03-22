@@ -325,7 +325,7 @@ ul ul {
         min-height: 200px;
     }
     /* Overides Bootstrap container class padding values */
-    .container {
+    .media-container {
         padding: 0.63rem 2px 0.63rem;
     }
     body,
