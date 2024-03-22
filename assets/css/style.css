@@ -227,15 +227,19 @@ div .card-header {
 .media-borders {
     border:0.63rem solid #ccc;
     max-width: 500px;
+    min-height: 275px;
 }
 
 .mantis-position {
     text-align: right;
+    background-color: #000;
+    padding: 2rem;
 }
 
 .mantis-text {
     background-color: #fff;
     text-align:left;
+    padding: 2rem;
 }
 
 /* FOOTER STYLES */
@@ -264,6 +268,12 @@ ul ul {
 
 /* MEDIA QUERIES */
 
+@media screen and (min-width:768px) and (max-width:992px) {
+    .media-borders {
+        min-height: 225px;
+    }
+}
+
 @media screen and (min-width:451px) and (max-width:768px) {
     .navbar-nav {
         position:unset;
@@ -273,6 +283,13 @@ ul ul {
     }
     .mantis-text {
         text-align: center;
+    }
+    .media-borders {
+        border:0.25rem solid #ccc;
+        min-height: 245px;
+    }
+    .container {
+        padding: 0.63rem 2px 0.63rem;
     }
     h1 {
         font-size:1.5rem;
@@ -289,7 +306,7 @@ ul ul {
     }
  }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:320px) {
     .navbar-nav {
         position: unset;
     }
@@ -302,6 +319,14 @@ ul ul {
     }
     .mantis-text {
         text-align: center;
+    }
+    .media-borders {
+        border:0.2rem solid #ccc;
+        min-height: 200px;
+    }
+    /* Overides Bootstrap container class padding values */
+    .container {
+        padding: 0.63rem 2px 0.63rem;
     }
     body,
     h1,
